@@ -51,7 +51,7 @@ Hierna komt de risico score, hierin is te vinden hoe zeker de API is of het IP-a
 
 ### AlienVault OTX
 De API van de oplossing AlienVault OTX geeft in eerste instancie een Raw output, zonder enige opmaak.
-In het document [AlienVault.json](Alienvault.json) is de json versie te zien van de output van de API.
+In het document [AlienVault.json](AlienVault/Alienvault.json) is de json versie te zien van de output van de API.
 
 Binnen de output van de Alienvault OTX API zijn verschillende pulses te zien, dit zijn paginas gerelateerd aan het IP-adres, en binnen deze pulsen zijn wat tags te zien.
 
