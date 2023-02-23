@@ -243,7 +243,7 @@ Binnen dit kopje geef ik aan wat de verschillende betaal manieren zijn binnen de
 - mogelijk nog overige kosten.
 
 ### AlienVault OTX
-
+- gratis
 
 ### IPsum
 - gratis
