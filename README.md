@@ -66,3 +66,30 @@ Daarna krijg je drie kopjes die ik persoonlijk minder belanrijk vind namelijk la
 Daarna krijg je in mijn opinie het belangrijkste kopje namelijk Threat. Hierin is te zien wat het kan zijn, bijvoorbeeld een tor, een proxy, etc., of het een Threat is, of het een attacker is en een lijst van blocklists waarin het IP-adres te vinden is.
 
 ### AbuseIPDB
+De API van de oplossing AbuseIPDB geeft in eerste instancie een Raw output, zonder enige opmaak.
+Binnen de handleiding voor de API kan er met verschillende programeer talen de API aanroepen en laat het meteen de script zien die je kan gebruiken.
+In het document [AbuseIPDB.json](AbuseIPDB.json) is de json output van de API te zien.
+
+Bovenaan in de data krijg je de abuseConfidenceScore te zien, deze geeft aan hoe zeker de API is dat het IP-adres gebruikt wordt voor verkeerde doeleinden.
+
+Daarna wat algemene informatie over het IP-adres en dan in het laatste stuk kan je zien hoevaak het IP-adres is gerapporteerd voor misbruik.
+
+### Ipregistry
+De API van de oplossing Ipregistry geeft in eerste instancie een Raw output, zonder enige opmaak.
+In het document [Ipregistry.json](Ipregistry.json) is de json versie te zien van de output van de API.
+
+Bovenin het document is te zien wat het IP-adres is, welke versie IP-adres er gebruikt wordt, de hostname van het IP-adres en eventueel de carrier.
+
+Daarna krijg je het bedrijf te zien dat aan het Ip-adres is gekoppeld.
+
+Daarna de connecties zoals asn, domein en organisatie.
+
+Daarna is er informatie te zien over de valuta van het land waarin het IP-adres zich bevind.
+
+Vervolgens krijg je informatie te zien over de locatie van het IP-adres zoals, het continent, het land en de stad waarin het IP-adres zich bevind.
+
+Als volgt krijg je informatie te zien gerelateerd aan security zoals is het IP-adres een aanvaller, een proxy, een tor, een VPN en/of een threat is.
+
+Tot slot krijg je informatie over de tijdszone van het land waarin het IP-adres zich bevind.
+
+### Ipinfo
