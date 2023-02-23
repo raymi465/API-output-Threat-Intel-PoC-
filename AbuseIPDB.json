@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 100,
+        "countryCode": "GB",
+        "domain": "ovh.com",
+        "hostnames": [
+            "ns3145504.ip-51-89-153.eu"
+        ],
+        "ipAddress": "51.89.153.112",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "OVH SAS",
+        "lastReportedAt": "2023-02-23T06:48:53+00:00",
+        "numDistinctUsers": 326,
+        "totalReports": 994,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
