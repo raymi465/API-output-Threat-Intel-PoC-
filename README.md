@@ -6,7 +6,7 @@ Dit zijn de Proof of Concepts van alle API's van de oplossingen die mij het best
 Met deze PoC's probeer ik te zien welke van deze oplossingen de "beste" en meest extensieve output geeft voor wat er gevraagd wordt qua prijs.
 
 Naast een toeligting van de PoC ga ik het ook hebben over de kosten.
-
+---
 ## Inhoudsopgaven
 - [API-output-Threat-Intel-PoC](#API-output-Threat-Intel-PoC)
   - [Intro](#Intro)
@@ -118,6 +118,7 @@ Daarna krijg je informatie te zien over het melden van misbruik van het IP-adres
 
 Tot slot is er informatie te zien gerelateerd aan het domain van het IP-adres.
 
+---
 ## Kosten
 Binnen dit kopje geef ik aan wat de verschillende betaal manieren zijn binnen de oplossing en de kosten van de verschillende profielen als deze aanwezig zijn.
 
