@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "DE",
+        "domain": "amazon.com",
+        "hostnames": [
+            "mail2.theonlyway.click"
+        ],
+        "ipAddress": "35.158.225.191",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": null,
+        "isp": "A100 ROW GmbH",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
