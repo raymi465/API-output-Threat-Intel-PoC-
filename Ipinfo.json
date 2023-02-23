@@ -1,4 +1,5 @@
 {
+   // is in alle profielen aanwezig //
    "ip":"51.89.153.112",
    "hostname":"ns3145504.ip-51-89-153.eu",
    "city":"London",
@@ -8,6 +9,7 @@
    "org":"AS16276 OVH SAS",
    "postal":"EC4R",
    "timezone":"Europe/London",
+   // Basic profiel nodig //
    "asn":{
       "asn":"AS16276",
       "name":"OVH SAS",
@@ -15,11 +17,13 @@
       "route":"51.89.0.0/16",
       "type":"hosting"
    },
+   // Business profiel nodig //
    "company":{
       "name":"OVH Ltd",
       "domain":"ovh.net",
       "type":"hosting"
    },
+   // Standard profiel nodig //
    "privacy":{
       "vpn":false,
       "proxy":false,
@@ -28,6 +32,7 @@
       "hosting":true,
       "service":""
    },
+   // Business profiel nodig //
    "abuse":{
       "address":"OVH Ltd, New London House, 6 London Street, EC3R 7LP, LONDON, UK",
       "country":"GB",
@@ -36,6 +41,7 @@
       "network":"51.89.153.0/24",
       "phone":""
    },
+   // Business profiel nodig //
    "domains":{
       "total":0,
       "domains":[
