@@ -33,4 +33,12 @@ Naast een toeligting van de PoC gan ik het ook hebben over de kosten en of de AP
 ### IPVOID
 De API van de oplossing IPVOID geeft in eerste instancie een Raw output, zonder enige opmaak.
 In het document [IPVOID.json](IPVOID.json) is de json versie te zien van de output van de API.
-Binnen de PoC wordt er gezocht naar het IP-adress 51.89.153.112.
+Binnen de PoC wordt er gezocht op het IP-adress 51.89.153.112.
+
+In het document IPVOID.json is te zien dat er een lijst is van blacklists.
+Binnen deze blacklist lijst is te zien of het IP-adres aangetroven wordt binnen de indiviuele blacklists, dit staat dan onder het kopje "detected".
+Na de blacklists wordt er algemene informatie over het IP-adres verteld, zoals "reverse DNS", landnaam, stads naam, isp en asn.
+Na de lijst van algemene informatie is er een kopje met anonymity, daaronder vallen of het een proxy is, een webproxy is, een VPN is, of het iets aan het hosten is en of het een tor is.
+Hierna komt de risico score, hierin is te vinden hoe zeker de API is of het IP-adres een risico is of niet.
+
+
