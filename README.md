@@ -6,6 +6,7 @@ Dit zijn de Proof of Concepts van alle API's van de oplossingen die mij het best
 Met deze PoC's probeer ik te zien welke van deze oplossingen de "beste" en meest extensieve output geeft voor wat er gevraagd wordt qua prijs.
 
 Naast een toeligting van de PoC ga ik het ook hebben over de kosten.
+
 ---
 ## Inhoudsopgaven
 - [API-output-Threat-Intel-PoC](#API-output-Threat-Intel-PoC)
@@ -28,6 +29,7 @@ Naast een toeligting van de PoC ga ik het ook hebben over de kosten.
     - [AlienVault OTX](#AlienVault-OTX)
     - [IPsum](#IPsum)
     - [Ip_enrich](#Ip_enrich)
+
 ---
 ## PoC
 Binnen de PoC wordt er gezocht op het IP-adress 51.89.153.112.
