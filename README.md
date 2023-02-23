@@ -48,5 +48,21 @@ Na de lijst van algemene informatie is er een kopje met anonymity, daaronder val
 Hierna komt de risico score, hierin is te vinden hoe zeker de API is of het IP-adres een risico is of niet.
 
 ### AlienVault OTX
+De API van de oplossing AlienVault OTX geeft in eerste instancie een Raw output, zonder enige opmaak.
+In het document [AlienVault.json](Alienvault.json) is de json versie te zien van de output van de API.
 
+Binnen de output van de Alienvault OTX API zijn verschillende pulses te zien, dit zijn paginas gerelateerd aan het IP-adres, en binnen deze pulsen zijn wat tags te zien.
 
+Met deze tags kan je zien waaraan het IP-adres gelinkt wordt, maar of de tags juist zijn kan ik helaas niet met zekerheid zeggen.
+
+### ipdata
+De API van de oplossing ipdata geeft meteen een output in json format.
+In het document [ipdata.json](ipdata.json) is de json output van de API te zien.
+
+Bovenaan in het document is wat algemene informatie te zien over het IP-adres zoals de stad waar het IP-adres zich in begeeft, het land waar het IP-adres zich in bevind, de asn en het domein van het IP-adres.
+
+Daarna krijg je drie kopjes die ik persoonlijk minder belanrijk vind namelijk languages, currency en time_zone.
+
+Daarna krijg je in mijn opinie het belangrijkste kopje namelijk Threat. Hierin is te zien wat het kan zijn, bijvoorbeeld een tor, een proxy, etc., of het een Threat is, of het een attacker is en een lijst van blocklists waarin het IP-adres te vinden is.
+
+### AbuseIPDB
