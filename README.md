@@ -38,7 +38,7 @@ Voor de PoC'swordt er gebruik gemaakt van de gratis versie van de API, dit kan b
 
 ### IPVOID
 De API van de oplossing IPVOID geeft in eerste instancie een Raw output, zonder enige opmaak.
-In het document [IPVOID.json](IPVOID.json) is de json versie te zien van de output van de API.
+In het document [IPVOID.json](IPVOID/IPVOID.json) is de json versie te zien van de output van de API.
 
 In het document IPVOID.json is te zien dat er een lijst is van blacklists.
 Binnen deze blacklist lijst is te zien of het IP-adres aangetroven wordt binnen de indiviuele blacklists, dit staat dan onder het kopje "detected".
@@ -59,7 +59,7 @@ Met deze tags kan je zien waaraan het IP-adres gelinkt wordt, maar of de tags ju
 
 ### ipdata
 De API van de oplossing ipdata geeft meteen een output in json format.
-In het document [ipdata.json](ipdata.json) is de json output van de API te zien.
+In het document [ipdata.json](ipdata/ipdata.json) is de json output van de API te zien.
 
 Bovenaan in het document is wat algemene informatie te zien over het IP-adres zoals de stad waar het IP-adres zich in begeeft, het land waar het IP-adres zich in bevind, de asn en het domein van het IP-adres.
 
@@ -70,7 +70,7 @@ Daarna krijg je in mijn opinie het belangrijkste kopje namelijk Threat. Hierin i
 ### AbuseIPDB
 De API van de oplossing AbuseIPDB geeft in eerste instancie een Raw output, zonder enige opmaak.
 Binnen de handleiding voor de API kan er met verschillende programeer talen de API aanroepen en laat het meteen de script zien die je kan gebruiken.
-In het document [AbuseIPDB.json](AbuseIPDB.json) is de json output van de API te zien.
+In het document [AbuseIPDB.json](AbuseIPDB/AbuseIPDB.json) is de json output van de API te zien.
 
 Bovenaan in de data krijg je de abuseConfidenceScore te zien, deze geeft aan hoe zeker de API is dat het IP-adres gebruikt wordt voor verkeerde doeleinden.
 
@@ -78,7 +78,7 @@ Daarna wat algemene informatie over het IP-adres en dan in het laatste stuk kan 
 
 ### Ipregistry
 De API van de oplossing Ipregistry geeft in eerste instancie een Raw output, zonder enige opmaak.
-In het document [Ipregistry.json](Ipregistry.json) is de json versie te zien van de output van de API.
+In het document [Ipregistry.json](Ipregistry/Ipregistry.json) is de json versie te zien van de output van de API.
 
 Bovenin het document is te zien wat het IP-adres is, welke versie IP-adres er gebruikt wordt, de hostname van het IP-adres en eventueel de carrier.
 
@@ -96,8 +96,8 @@ Tot slot krijg je informatie over de tijdszone van het land waarin het IP-adres 
 
 ### Ipinfo
 De API van de oplossing Ipinfo geeft meteen een output in json format.
-In het document [Ipinfo_gratis.json](Ipinfo_gratis.json) is de json output van de API te zien van een gratis account.
-En in het document [Ipinfo.json](Ipinfo.json) is de json output van de API te zien van de verschillende accounts, met boven elk stukje een comment over welk profiel nodig is voor de daaronder geleverde informatie.
+In het document [Ipinfo_gratis.json](Ipinfo/Ipinfo_gratis.json) is de json output van de API te zien van een gratis account.
+En in het document [Ipinfo.json](Ipinfo/Ipinfo.json) is de json output van de API te zien van de verschillende accounts, met boven elk stukje een comment over welk profiel nodig is voor de daaronder geleverde informatie.
 
 Bovenin het documetn Ipinfo_gratis.json is het IP-adres te zien met daaronder de hostname van het IP-adres.
 
