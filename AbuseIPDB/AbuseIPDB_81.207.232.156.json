@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "NL",
+        "domain": "kpn.com",
+        "hostnames": [
+            "81-207-232-156.fixed.kpn.net"
+        ],
+        "ipAddress": "81.207.232.156",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": null,
+        "isp": "KPN B.V.",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": null
+    }
+}
