@@ -1,0 +1,24 @@
+{
+    "ip": "81.207.232.156",
+    "asn": {
+        "asn": "AS1136",
+        "name": "KPN B.V",
+        "domain": "kpn.com",
+        "route": "81.204.0.0/14",
+        "type": "business"
+    },
+    "country_name": "Netherlands",
+    "threat": {
+        "is_tor": false,
+        "is_icloud_relay": false,
+        "is_proxy": false,
+        "is_datacenter": false,
+        "is_anonymous": false,
+        "is_known_attacker": false,
+        "is_known_abuser": false,
+        "is_threat": false,
+        "is_bogon": false,
+        "blocklists": []
+    },
+    "status": 200
+}
