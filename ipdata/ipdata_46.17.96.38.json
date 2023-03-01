@@ -1,0 +1,67 @@
+{
+    "ip": "46.17.96.38",
+    "is_eu": true,
+    "city": null,
+    "region": null,
+    "region_code": null,
+    "region_type": null,
+    "country_name": "Netherlands",
+    "country_code": "NL",
+    "continent_name": "Europe",
+    "continent_code": "EU",
+    "latitude": 52.38240051269531,
+    "longitude": 4.899499893188477,
+    "postal": null,
+    "calling_code": "31",
+    "flag": "https://ipdata.co/flags/nl.png",
+    "emoji_flag": "\ud83c\uddf3\ud83c\uddf1",
+    "emoji_unicode": "U+1F1F3 U+1F1F1",
+    "asn": {
+        "asn": "AS57043",
+        "name": "Ripe NCC ASN Block",
+        "domain": null,
+        "route": "46.17.96.0/24",
+        "type": "hosting"
+    },
+    "languages": [
+        {
+            "name": "Dutch",
+            "native": "Nederlands",
+            "code": "nl"
+        }
+    ],
+    "currency": {
+        "name": "Euro",
+        "code": "EUR",
+        "symbol": "\u20ac",
+        "native": "\u20ac",
+        "plural": "euros"
+    },
+    "time_zone": {
+        "name": "Europe/Amsterdam",
+        "abbr": "CET",
+        "offset": "+0100",
+        "is_dst": false,
+        "current_time": "2023-03-01T08:16:33+01:00"
+    },
+    "threat": {
+        "is_tor": false,
+        "is_icloud_relay": false,
+        "is_proxy": false,
+        "is_datacenter": true,
+        "is_anonymous": false,
+        "is_known_attacker": true,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "CI Army",
+                "site": "https://cinsscore.com",
+                "type": "general"
+            }
+        ]
+    },
+    "count": "7",
+    "status": 200
+}
