@@ -1,0 +1,57 @@
+{
+   "ip":"89.248.163.209",
+   "hostname":"recyber.net",
+   "city":"Amsterdam",
+   "region":"North Holland",
+   "country":"NL",
+   "loc":"52.3740,4.8897",
+   "org":"AS202425 IP Volume inc",
+   "postal":"1012",
+   "timezone":"Europe/Amsterdam",
+   "asn":{
+      "asn":"AS202425",
+      "name":"IP Volume inc",
+      "domain":"ipvolume.net",
+      "route":"89.248.163.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"RECYBER PROJECT NETBLOCK",
+      "domain":"recyber.net",
+      "type":"business"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":false,
+      "service":""
+   },
+   "abuse":{
+      "address":"35 Firs Avenue, London, England, N11 3NE",
+      "country":"SC",
+      "email":"abuse@recyber.net",
+      "name":"RECYBER ROLE",
+      "network":"89.248.163.128/25",
+      "phone":""
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
