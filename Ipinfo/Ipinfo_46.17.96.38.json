@@ -1,0 +1,56 @@
+{
+   "ip":"46.17.96.38",
+   "city":"Amsterdam",
+   "region":"North Holland",
+   "country":"NL",
+   "loc":"52.3740,4.8897",
+   "org":"AS57043 HOSTKEY B.V.",
+   "postal":"1012",
+   "timezone":"Europe/Amsterdam",
+   "asn":{
+      "asn":"AS57043",
+      "name":"HOSTKEY B.V.",
+      "domain":"hostkey.com",
+      "route":"46.17.96.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"HOSTKEY B.V.",
+      "domain":"hostkey.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":""
+   },
+   "abuse":{
+      "address":"W Frederik Hermansstr 91, 1011DG, Amsterdam, NETHERLANDS",
+      "country":"NL",
+      "email":"abuse@hostkey.nl",
+      "name":"Hostkey_NL abuse",
+      "network":"46.17.96.38-46.17.97.23",
+      "phone":"+31208203777"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
