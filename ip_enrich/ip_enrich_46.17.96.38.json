@@ -1,0 +1,64 @@
+{
+    "IP": "46.17.96.38",
+    "Country": "NL",
+    "AS Org": "Hostkey B.v.",
+    "RDNS": "",
+    "GeoIP Data": {
+        "Country": "Netherlands (NL)",
+        "RegionName": "North Holland NH",
+        "City": "Amsterdam",
+        "Lat": 52.3676,
+        "Lon": 4.90414,
+        "TZ": "Europe/Amsterdam",
+        "isp": "Hostkey B.V.",
+        "Org": "Hostkey",
+        "AS": "AS57043 HOSTKEY B.V."
+    },
+    "VT Resolutions (top 10, sorted by datetime)": [
+        "2020-07-17 03:33:57: truelo.aquamassage.icu",
+        "2020-07-12 00:37:21: www.ideal-betaaldirect.com",
+        "2020-07-12 00:37:19: ideal-betaaldirect.com",
+        "2020-07-08 16:25:19: www.marktpiaats-verificatie.com",
+        "2020-07-08 16:25:12: ing-betaaldirect.icu",
+        "2020-07-08 16:25:10: marktpiaats-verificatie.com",
+        "2020-07-08 16:24:47: www.ing-betaaldirect.icu",
+        "2020-07-07 11:17:27: marktpiaats-verificatie.net",
+        "2020-07-07 11:17:26: www.marktpiaats-verificatie.net",
+        "2020-07-07 11:16:36: p0st-nl.co"
+    ],
+    "VT URLs (top 10, sorted by datetime)": [
+        {
+            "datetime": "2023-03-01 07:18:14",
+            "url": "http://46.17.96.38/",
+            "positives": "8/90"
+        },
+        {
+            "datetime": "2023-02-13 13:18:40",
+            "url": "https://46.17.96.38/",
+            "positives": "7/90"
+        }
+    ],
+    "VT Detected Downloaded Samples (top 10, sorted by datetime)": [
+        {
+            "datetime": "2020-07-04 06:55:07",
+            "positives": 0,
+            "total": 76,
+            "SHA256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5"
+        }
+    ],
+    "VT Detected Referrer Samples (top 10, sorted by sha)": [
+        {
+            "sha": "20420bd37a2d706fda77093bf419232a90a1d9e0f7c2e9ffc8d1bbd204f66581",
+            "positives": 1,
+            "total": 74
+        }
+    ],
+    "Shodan Data": {
+        "Tags": [],
+        "Domains": [],
+        "Hostnames": [],
+        "Org": "HOSTKEY B.V.",
+        "Last update": "2023-02-09T22:01:29.074794",
+        "Ports": [123]
+    }
+}
