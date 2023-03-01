@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 100,
+        "countryCode": "NL",
+        "domain": "fiberxpress.net",
+        "hostnames": [
+            "recyber.net"
+        ],
+        "ipAddress": "89.248.163.209",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "FiberXpress BV",
+        "lastReportedAt": "2023-03-01T09:04:17+00:00",
+        "numDistinctUsers": 120,
+        "totalReports": 392,
+        "usageType": "Fixed Line ISP"
+    }
+}
