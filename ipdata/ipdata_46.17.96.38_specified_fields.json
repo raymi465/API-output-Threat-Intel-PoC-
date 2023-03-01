@@ -1,0 +1,30 @@
+{
+    "ip": "46.17.96.38",
+    "asn": {
+        "asn": "AS57043",
+        "name": "Ripe NCC ASN Block",
+        "domain": null,
+        "route": "46.17.96.0/24",
+        "type": "hosting"
+    },
+    "country_name": "Netherlands",
+    "threat": {
+        "is_tor": false,
+        "is_icloud_relay": false,
+        "is_proxy": false,
+        "is_datacenter": true,
+        "is_anonymous": false,
+        "is_known_attacker": true,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "CI Army",
+                "site": "https://cinsscore.com",
+                "type": "general"
+            }
+        ]
+    },
+    "status": 200
+}
