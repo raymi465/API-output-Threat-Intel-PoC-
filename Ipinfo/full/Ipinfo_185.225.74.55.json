@@ -1,0 +1,57 @@
+{
+   "ip":"185.225.74.55",
+   "city":"Brielle",
+   "region":"South Holland",
+   "country":"NL",
+   "loc":"51.9017,4.1625",
+   "org":"AS211252 Delis LLC",
+   "postal":"3231",
+   "timezone":"Europe/Amsterdam",
+   "asn":{
+      "asn":"AS211252",
+      "name":"Delis LLC",
+      "domain":"delis.one",
+      "route":"185.225.74.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"Des Capital B.V.",
+      "domain":"des.capital",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":""
+   },
+   "abuse":{
+      "address":"Krammer 8, 3232 HE Brielle, Netherlands",
+      "country":"NL",
+      "email":"abuse@serverion.com",
+      "name":"Serverion B.V.",
+      "network":"185.225.74.0/24",
+      "phone":"+31851308333"
+   },
+   "domains":{
+      "ip":"185.225.74.55",
+      "total":1,
+      "domains":[
+         "theprostateprotocolpro.life"
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
