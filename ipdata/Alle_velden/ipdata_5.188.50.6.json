@@ -1,0 +1,77 @@
+{
+    "ip": "5.188.50.6",
+    "is_eu": true,
+    "city": "Katowice",
+    "region": "Slaskie",
+    "region_code": "24",
+    "region_type": "voivodship",
+    "country_name": "Poland",
+    "country_code": "PL",
+    "continent_name": "Europe",
+    "continent_code": "EU",
+    "latitude": 50.254600524902344,
+    "longitude": 18.997400283813477,
+    "postal": "40-069",
+    "calling_code": "48",
+    "flag": "https://ipdata.co/flags/pl.png",
+    "emoji_flag": "\ud83c\uddf5\ud83c\uddf1",
+    "emoji_unicode": "U+1F1F5 U+1F1F1",
+    "asn": {
+        "asn": "AS35277",
+        "name": "Ripe NCC ASN Block",
+        "domain": null,
+        "route": "5.188.50.0/24",
+        "type": "business"
+    },
+    "languages": [
+        {
+            "name": "Polish",
+            "native": "Polski",
+            "code": "pl"
+        }
+    ],
+    "currency": {
+        "name": "Polish Zloty",
+        "code": "PLN",
+        "symbol": "z\u0142",
+        "native": "z\u0142",
+        "plural": "Polish zlotys"
+    },
+    "time_zone": {
+        "name": "Europe/Warsaw",
+        "abbr": "CET",
+        "offset": "+0100",
+        "is_dst": false,
+        "current_time": "2023-03-06T14:27:21+01:00"
+    },
+    "threat": {
+        "is_tor": true,
+        "is_icloud_relay": false,
+        "is_proxy": true,
+        "is_datacenter": false,
+        "is_anonymous": true,
+        "is_known_attacker": false,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Dan.me",
+                "site": "https://www.dan.me.uk",
+                "type": "tor_exit_nodes"
+            },
+            {
+                "name": "Stop Forum Spam",
+                "site": "https://www.stopforumspam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Tor Project",
+                "site": "https://torproject.org",
+                "type": "tor_exit_nodes"
+            }
+        ]
+    },
+    "count": "13",
+    "status": 200
+}
