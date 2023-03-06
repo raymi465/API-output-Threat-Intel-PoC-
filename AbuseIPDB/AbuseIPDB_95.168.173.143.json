@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 93,
+        "countryCode": "NL",
+        "domain": "leaseweb.com",
+        "hostnames": [],
+        "ipAddress": "95.168.173.143",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "LeaseWeb Netherlands B.V.",
+        "lastReportedAt": "2023-03-03T05:30:21+00:00",
+        "numDistinctUsers": 17,
+        "totalReports": 31,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
