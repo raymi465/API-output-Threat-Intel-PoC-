@@ -1,0 +1,116 @@
+{
+    "ip": "5.188.50.6",
+    "type": "IPv4",
+    "hostname": "server1.pl",
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": null,
+        "name": "LLHOST-INC-SRL",
+        "type": "business"
+    },
+    "connection": {
+        "asn": 35277,
+        "domain": "llhost-inc.com",
+        "organization": "LLHOST INC. SRL",
+        "route": "5.188.50.0/24",
+        "type": "hosting"
+    },
+    "currency": {
+        "code": "PLN",
+        "name": "Polish Zloty",
+        "name_native": "z\u0142oty polski",
+        "plural": "Polish zlotys",
+        "plural_native": "z\u0142otego polskiego",
+        "symbol": "PLN",
+        "symbol_native": "z\u0142",
+        "format": {
+            "negative": {
+                "prefix": "-",
+                "suffix": "\u00a0z\u0142"
+            },
+            "positive": {
+                "prefix": "",
+                "suffix": "\u00a0z\u0142"
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "EU",
+            "name": "Europe"
+        },
+        "country": {
+            "area": 312685,
+            "borders": [
+                "BY",
+                "CZ",
+                "DE",
+                "LT",
+                "RU",
+                "SK",
+                "UA"
+            ],
+            "calling_code": "48",
+            "capital": "Warsaw",
+            "code": "PL",
+            "name": "Poland",
+            "population": 37747124,
+            "population_density": 120.72,
+            "flag": {
+                "emoji": "\ud83c\uddf5\ud83c\uddf1",
+                "emoji_unicode": "U+1F1F5 U+1F1F1",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/pl.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/pl.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/pl.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/pl.svg"
+            },
+            "languages": [
+                {
+                    "code": "pl",
+                    "name": "Polish",
+                    "native": "polski"
+                }
+            ],
+            "tld": ".pl"
+        },
+        "region": {
+            "code": "PL-24",
+            "name": "\u015al\u0105skie"
+        },
+        "city": "Katowice",
+        "postal": "40-069",
+        "latitude": 50.25305,
+        "longitude": 19.00279,
+        "language": {
+            "code": "pl",
+            "name": "Polish",
+            "native": "polski"
+        },
+        "in_eu": true
+    },
+    "security": {
+        "is_abuser": true,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": true,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": true,
+        "is_tor_exit": true,
+        "is_vpn": false,
+        "is_anonymous": true,
+        "is_threat": true
+    },
+    "time_zone": {
+        "id": "Europe/Warsaw",
+        "abbreviation": "CET",
+        "current_time": "2023-03-06T14:34:24+01:00",
+        "name": "Central European Standard Time",
+        "offset": 3600,
+        "in_daylight_saving": false
+    }
+}
