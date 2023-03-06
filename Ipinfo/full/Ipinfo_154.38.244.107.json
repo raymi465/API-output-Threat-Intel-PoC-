@@ -1,0 +1,56 @@
+{
+   "ip":"154.38.244.107",
+   "city":"Los Angeles",
+   "region":"California",
+   "country":"US",
+   "loc":"34.0522,-118.2437",
+   "org":"AS21859 Zenlayer Inc",
+   "postal":"90009",
+   "timezone":"America/Los_Angeles",
+   "asn":{
+      "asn":"AS21859",
+      "name":"Zenlayer Inc",
+      "domain":"zenlayer.com",
+      "route":"154.38.224.0/19",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"Cogent Communications",
+      "domain":"cogentcomm.biz",
+      "type":"isp"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":false,
+      "service":""
+   },
+   "abuse":{
+      "address":"US, DC, Washington, 2450 N street, NW, 20037",
+      "country":"US",
+      "email":"abuse@cogentco.com",
+      "name":"Cogent Abuse",
+      "network":"154.38.192.0/18",
+      "phone":"+1-877-875-4311"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
