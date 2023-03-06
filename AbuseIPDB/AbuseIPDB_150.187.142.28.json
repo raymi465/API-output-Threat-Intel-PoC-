@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "VE",
+        "domain": "cenit.gob.ve",
+        "hostnames": [],
+        "ipAddress": "150.187.142.28",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": null,
+        "isp": "Fundacion Centro Nacional de Innovacion Tecnologica",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Government"
+    }
+}
