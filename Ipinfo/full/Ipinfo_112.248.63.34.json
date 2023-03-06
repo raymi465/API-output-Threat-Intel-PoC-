@@ -1,0 +1,60 @@
+{
+   "ip":"112.248.63.34",
+   "city":"Qingdao",
+   "region":"Shandong",
+   "country":"CN",
+   "loc":"36.0649,120.3804",
+   "org":"AS4837 CHINA UNICOM China169 Backbone",
+   "timezone":"Asia/Shanghai",
+   "asn":{
+      "asn":"AS4837",
+      "name":"CHINA UNICOM China169 Backbone",
+      "domain":"chinaunicom.cn",
+      "route":"112.224.0.0/11",
+      "type":"isp"
+   },
+   "company":{
+      "name":"China Unicom Shandong province network",
+      "domain":"chinaunicom.cn",
+      "type":"isp"
+   },
+   "carrier":{
+      "name":"China Unicom",
+      "mcc":"460",
+      "mnc":"1"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":false,
+      "service":""
+   },
+   "abuse":{
+      "address":"No.21,Financial Street, Beijing,100033, P.R.China",
+      "country":"CN",
+      "email":"hqs-ipabuse@chinaunicom.cn",
+      "name":"ChinaUnicom Hostmaster",
+      "network":"112.224.0.0/11",
+      "phone":"+86-10-66259764"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
