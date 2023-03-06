@@ -1,0 +1,59 @@
+{
+   "ip":"5.188.50.6",
+   "hostname":"server1.pl",
+   "city":"Katowice",
+   "region":"Silesia",
+   "country":"PL",
+   "loc":"50.2530,19.0028",
+   "org":"AS35277 LLHOST INC. SRL",
+   "postal":"40-069",
+   "timezone":"Europe/Warsaw",
+   "asn":{
+      "asn":"AS35277",
+      "name":"LLHOST INC. SRL",
+      "domain":"llhost-inc.eu",
+      "route":"5.188.50.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"LLHOST INC. SRL",
+      "domain":"llhost-inc.eu",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":true,
+      "relay":false,
+      "hosting":true,
+      "service":""
+   },
+   "abuse":{
+      "address":"Street DR. Petre Herescu, 12, Parter, apt.2, 050586, Romania, Bucharest",
+      "country":"RO",
+      "email":"abuse@llhost-inc.com",
+      "name":"LLHOST INC. SRL ABUSE",
+      "network":"5.188.50.0/24",
+      "phone":""
+   },
+   "domains":{
+      "ip":"5.188.50.6",
+      "total":2,
+      "domains":[
+         "heritagegator.live",
+         "humestermgriffin.live"
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
