@@ -1,0 +1,32 @@
+{
+   "ip":"112.248.63.34",
+   "country":"CN",
+   "as":"CHINA UNICOM China169 Backbone",
+   "rdns":"None",
+   "label":"",
+   "geodata":{
+      "status":"success",
+      "country":"China",
+      "countryCode":"CN",
+      "region":"SD",
+      "regionName":"Shandong",
+      "city":"Weifang",
+      "zip":"",
+      "lat":36.7069,
+      "lon":119.162,
+      "timezone":"Asia/Shanghai",
+      "isp":"China Unicom CHINA169 Shandong Province Network",
+      "org":"",
+      "as":"AS4837 CHINA UNICOM China169 Backbone",
+      "query":"112.248.63.34"
+   },
+   "vt":{
+      "detected_urls":[
+         {
+            "date":"2022-12-27 02:27:52",
+            "url":"http://112.248.63.34/",
+            "detections":"1/90"
+         }
+      ]
+   }
+}
