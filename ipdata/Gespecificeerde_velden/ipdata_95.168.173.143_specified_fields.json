@@ -1,0 +1,50 @@
+{
+    "ip": "95.168.173.143",
+    "asn": {
+        "asn": "AS60781",
+        "name": "Leaseweb Netherlands B.V",
+        "domain": null,
+        "route": "95.168.160.0/20",
+        "type": "hosting"
+    },
+    "country_name": "Netherlands",
+    "threat": {
+        "is_tor": true,
+        "is_icloud_relay": false,
+        "is_proxy": true,
+        "is_datacenter": true,
+        "is_anonymous": true,
+        "is_known_attacker": true,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Anti-attacks.com",
+                "site": "https://anti-attacks.com",
+                "type": "general"
+            },
+            {
+                "name": "Blocklist.net.ua",
+                "site": "https://blocklist.net.ua",
+                "type": "general"
+            },
+            {
+                "name": "sblam",
+                "site": "https://sblam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Stop Forum Spam",
+                "site": "https://www.stopforumspam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Tor Project",
+                "site": "https://torproject.org",
+                "type": "tor_exit_nodes"
+            }
+        ]
+    },
+    "status": 200
+}
