@@ -1,0 +1,61 @@
+{
+   "ip":"5.188.50.6",
+   "country":"PL",
+   "as":"Llhost Inc. Srl",
+   "rdns":"None",
+   "label":"",
+   "geodata":{
+      "status":"success",
+      "country":"Poland",
+      "countryCode":"PL",
+      "region":"24",
+      "regionName":"Silesia",
+      "city":"Katowice",
+      "zip":"40-069",
+      "lat":50.2546,
+      "lon":18.9974,
+      "timezone":"Europe/Warsaw",
+      "isp":"LLHost Inc PL",
+      "org":"Llhost Inc SRL",
+      "as":"AS35277 LLHOST INC. SRL",
+      "query":"5.188.50.6"
+   },
+   "vt":{
+      "resolutions":[
+         {
+            "date":"2022-12-05 19:24:38",
+            "domain":"humestermgriffin.live"
+         },
+         {
+            "date":"2022-09-30 00:16:55",
+            "domain":"heritagegator.live"
+         },
+         {
+            "date":"2022-09-29 02:16:31",
+            "domain":"decreasingchilla.site"
+         },
+         {
+            "date":"2022-09-20 01:17:22",
+            "domain":"decreasingfin.site"
+         },
+         {
+            "date":"2022-09-14 10:43:19",
+            "domain":"closesttdog.store"
+         }
+      ],
+      "detected_urls":[
+         {
+            "date":"2023-02-05 01:18:28",
+            "url":"http://5.188.50.6/",
+            "detections":"1/90"
+         }
+      ],
+      "detected_communicating_samples":[
+         {
+            "date":"2023-02-17 08:03:17",
+            "detections":"59/75",
+            "sha256":"dc23e92b35cd9ceb3e8adc91a4492facfd66d65f72967ba69c57f17470f9b66f"
+         }
+      ]
+   }
+}
