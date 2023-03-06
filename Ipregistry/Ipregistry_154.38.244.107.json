@@ -1,0 +1,120 @@
+{
+    "ip": "154.38.244.107",
+    "type": "IPv4",
+    "hostname": null,
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": "cogentco.com",
+        "name": "Psinet, Inc.",
+        "type": "isp"
+    },
+    "connection": {
+        "asn": 21859,
+        "domain": "zenlayer.com",
+        "organization": "Zenlayer INC",
+        "route": "154.38.224.0/19",
+        "type": "hosting"
+    },
+    "currency": {
+        "code": "HKD",
+        "name": "Hong Kong Dollar",
+        "name_native": "\u6e2f\u5143",
+        "plural": "Hong Kong dollars",
+        "plural_native": "\u6e2f\u5143",
+        "symbol": "HK$",
+        "symbol_native": "HK$",
+        "format": {
+            "negative": {
+                "prefix": "-HK$",
+                "suffix": ""
+            },
+            "positive": {
+                "prefix": "HK$",
+                "suffix": ""
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "AS",
+            "name": "Asia"
+        },
+        "country": {
+            "area": 1092,
+            "borders": [
+                "CN"
+            ],
+            "calling_code": "852",
+            "capital": "City of Victoria",
+            "code": "HK",
+            "name": "Hong Kong",
+            "population": 7413100,
+            "population_density": 6788.55,
+            "flag": {
+                "emoji": "\ud83c\udded\ud83c\uddf0",
+                "emoji_unicode": "U+1F1ED U+1F1F0",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/hk.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/hk.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/hk.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/hk.svg"
+            },
+            "languages": [
+                {
+                    "code": "zh",
+                    "name": "Chinese",
+                    "native": "\u4e2d\u6587"
+                },
+                {
+                    "code": "zh",
+                    "name": "Chinese",
+                    "native": "\u4e2d\u6587"
+                },
+                {
+                    "code": "en",
+                    "name": "English",
+                    "native": "English"
+                }
+            ],
+            "tld": ".hk"
+        },
+        "region": {
+            "code": null,
+            "name": "Hong Kong"
+        },
+        "city": "Hong Kong",
+        "postal": "96522",
+        "latitude": 22.28545,
+        "longitude": 114.15761,
+        "language": {
+            "code": "zh",
+            "name": "Chinese",
+            "native": "\u4e2d\u6587"
+        },
+        "in_eu": false
+    },
+    "security": {
+        "is_abuser": false,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": true,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_vpn": false,
+        "is_anonymous": false,
+        "is_threat": false
+    },
+    "time_zone": {
+        "id": "Asia/Shanghai",
+        "abbreviation": "CST",
+        "current_time": "2023-03-06T14:42:33+08:00",
+        "name": "China Standard Time",
+        "offset": 28800,
+        "in_daylight_saving": false
+    }
+}
