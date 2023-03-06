@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "HK",
+        "domain": "scg.tv",
+        "hostnames": [],
+        "ipAddress": "154.38.244.107",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "Starcloud Global Pte Ltd",
+        "lastReportedAt": "2022-11-30T05:07:15+00:00",
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
