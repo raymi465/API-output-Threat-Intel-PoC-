@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 3,
+        "countryCode": "PL",
+        "domain": "pinspb.ru",
+        "hostnames": [
+            "server1.pl"
+        ],
+        "ipAddress": "5.188.50.6",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "Petersburg Internet Network Ltd.",
+        "lastReportedAt": "2023-03-03T05:32:36+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 2,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
