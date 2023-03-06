@@ -1,0 +1,40 @@
+{
+    "ip": "5.188.50.6",
+    "asn": {
+        "asn": "AS35277",
+        "name": "Ripe NCC ASN Block",
+        "domain": null,
+        "route": "5.188.50.0/24",
+        "type": "business"
+    },
+    "country_name": "Poland",
+    "threat": {
+        "is_tor": true,
+        "is_icloud_relay": false,
+        "is_proxy": true,
+        "is_datacenter": false,
+        "is_anonymous": true,
+        "is_known_attacker": false,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Dan.me",
+                "site": "https://www.dan.me.uk",
+                "type": "tor_exit_nodes"
+            },
+            {
+                "name": "Stop Forum Spam",
+                "site": "https://www.stopforumspam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Tor Project",
+                "site": "https://torproject.org",
+                "type": "tor_exit_nodes"
+            }
+        ]
+    },
+    "status": 200
+}
