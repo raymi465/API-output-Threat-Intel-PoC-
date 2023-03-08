@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "AE",
+        "domain": "m247.com",
+        "hostnames": [],
+        "ipAddress": "45.9.249.67",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "M247 Europe SRL",
+        "lastReportedAt": "2021-05-24T08:01:14+00:00",
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
