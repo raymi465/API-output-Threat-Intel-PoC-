@@ -1,0 +1,50 @@
+{
+    "ip": "79.137.202.92",
+    "asn": {
+        "asn": "AS210644",
+        "name": "AEZA Group Ltd",
+        "domain": "aeza.net",
+        "route": "79.137.202.0/23",
+        "type": "business"
+    },
+    "country_name": "Germany",
+    "threat": {
+        "is_tor": true,
+        "is_icloud_relay": false,
+        "is_proxy": true,
+        "is_datacenter": false,
+        "is_anonymous": true,
+        "is_known_attacker": true,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Dan.me",
+                "site": "https://www.dan.me.uk",
+                "type": "tor_exit_nodes"
+            },
+            {
+                "name": "DataPlane.org",
+                "site": "https://dataplane.org",
+                "type": "general"
+            },
+            {
+                "name": "sblam",
+                "site": "https://sblam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Stop Forum Spam",
+                "site": "https://www.stopforumspam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Tor Project",
+                "site": "https://torproject.org",
+                "type": "tor_exit_nodes"
+            }
+        ]
+    },
+    "status": 200
+}
