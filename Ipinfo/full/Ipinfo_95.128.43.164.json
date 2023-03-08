@@ -1,0 +1,57 @@
+{
+   "ip":"95.128.43.164",
+   "hostname":"exit-1.fr.tor.aquaray.com",
+   "city":"Ivry-sur-Seine",
+   "region":"Île-de-France",
+   "country":"FR",
+   "loc":"48.8157,2.3849",
+   "org":"AS41653 Aqua Ray SAS",
+   "postal":"94200",
+   "timezone":"Europe/Paris",
+   "asn":{
+      "asn":"AS41653",
+      "name":"Aqua Ray SAS",
+      "domain":"aquaray.com",
+      "route":"95.128.43.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"Tor servers",
+      "domain":"aquaray.net",
+      "type":"business"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":true,
+      "tor":true,
+      "relay":false,
+      "hosting":false,
+      "service":""
+   },
+   "abuse":{
+      "address":"FRANCE, IVRY-SUR-SEINE, 94200, 14, rue Jules Vanzuppe",
+      "country":"FR",
+      "email":"abuse@aquaray.com",
+      "name":"Abuse-C Role",
+      "network":"95.128.43.160/29",
+      "phone":""
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
