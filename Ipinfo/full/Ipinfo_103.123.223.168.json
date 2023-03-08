@@ -1,0 +1,56 @@
+{
+   "ip":"103.123.223.168",
+   "city":"Aurangabad",
+   "region":"Maharashtra",
+   "country":"IN",
+   "loc":"19.8776,75.3423",
+   "org":"AS138329 Kenstar Web Solutions Private Limited",
+   "postal":"431007",
+   "timezone":"Asia/Kolkata",
+   "asn":{
+      "asn":"AS138329",
+      "name":"Kenstar Web Solutions Private Limited",
+      "domain":"kenstar.com",
+      "route":"103.123.223.0/24",
+      "type":"business"
+   },
+   "company":{
+      "name":"Kenstar Web Solutions Private Limited",
+      "domain":"kenstar.com",
+      "type":"business"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":false,
+      "service":""
+   },
+   "abuse":{
+      "address":"O-1, 1st Floor, Wing A,, Roopchand Complex, Aurangpura Road,, Bhaji Mandi, Aurangabad Maharashtra 41",
+      "country":"IN",
+      "email":"abuse@kenstar.com",
+      "name":"Network Administrator",
+      "network":"103.123.220.0/22",
+      "phone":"+918275050786"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
