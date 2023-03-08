@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "SG",
+        "domain": "datacamp.sk",
+        "hostnames": [
+            "unn-89-187-162-120.cdn77.com"
+        ],
+        "ipAddress": "89.187.162.120",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "DataCamp s.r.o.",
+        "lastReportedAt": "2021-05-02T02:56:48+00:00",
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
