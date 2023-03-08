@@ -1,0 +1,108 @@
+{
+    "ip": "212.102.50.66",
+    "type": "IPv4",
+    "hostname": "unn-212-102-50-66.cdn77.com",
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": null,
+        "name": "CDNEXT-TYO",
+        "type": "business"
+    },
+    "connection": {
+        "asn": 60068,
+        "domain": "datacamp.co.uk",
+        "organization": "Datacamp Limited",
+        "route": "212.102.50.0/24",
+        "type": "hosting"
+    },
+    "currency": {
+        "code": "JPY",
+        "name": "Japanese Yen",
+        "name_native": "\u65e5\u672c\u5186",
+        "plural": "Japanese yen",
+        "plural_native": "\u5186",
+        "symbol": "\u00a5",
+        "symbol_native": "\uffe5",
+        "format": {
+            "negative": {
+                "prefix": "-\uffe5",
+                "suffix": ""
+            },
+            "positive": {
+                "prefix": "\uffe5",
+                "suffix": ""
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "AS",
+            "name": "Asia"
+        },
+        "country": {
+            "area": 377835,
+            "borders": [],
+            "calling_code": "81",
+            "capital": "Tokyo",
+            "code": "JP",
+            "name": "Japan",
+            "population": 125681593,
+            "population_density": 332.64,
+            "flag": {
+                "emoji": "\ud83c\uddef\ud83c\uddf5",
+                "emoji_unicode": "U+1F1EF U+1F1F5",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/jp.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/jp.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/jp.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/jp.svg"
+            },
+            "languages": [
+                {
+                    "code": "ja",
+                    "name": "Japanese",
+                    "native": "\u65e5\u672c\u8a9e"
+                }
+            ],
+            "tld": ".jp"
+        },
+        "region": {
+            "code": "JP-13",
+            "name": "Tokyo"
+        },
+        "city": "Tokyo",
+        "postal": "102-0082",
+        "latitude": 35.68924,
+        "longitude": 139.68991,
+        "language": {
+            "code": "ja",
+            "name": "Japanese",
+            "native": "\u65e5\u672c\u8a9e"
+        },
+        "in_eu": false
+    },
+    "security": {
+        "is_abuser": false,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": true,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_vpn": true,
+        "is_anonymous": true,
+        "is_threat": false
+    },
+    "time_zone": {
+        "id": "Asia/Tokyo",
+        "abbreviation": "JST",
+        "current_time": "2023-03-08T22:54:41+09:00",
+        "name": "Japan Standard Time",
+        "offset": 32400,
+        "in_daylight_saving": false
+    }
+}
