@@ -1,0 +1,87 @@
+{
+    "ip": "75.63.67.35",
+    "is_eu": false,
+    "city": "Evanston",
+    "region": "Illinois",
+    "region_code": "IL",
+    "region_type": "state",
+    "country_name": "United States",
+    "country_code": "US",
+    "continent_name": "North America",
+    "continent_code": "NA",
+    "latitude": 42.03110122680664,
+    "longitude": -87.68579864501953,
+    "postal": "60202",
+    "calling_code": "1",
+    "flag": "https://ipdata.co/flags/us.png",
+    "emoji_flag": "\ud83c\uddfa\ud83c\uddf8",
+    "emoji_unicode": "U+1F1FA U+1F1F8",
+    "asn": {
+        "asn": "AS7018",
+        "name": "AT&T Services Inc",
+        "domain": null,
+        "route": "75.48.0.0/12",
+        "type": "business"
+    },
+    "carrier": {
+        "name": "AT&T",
+        "mcc": "310",
+        "mnc": "030"
+    },
+    "languages": [
+        {
+            "name": "English",
+            "native": "English",
+            "code": "en"
+        }
+    ],
+    "currency": {
+        "name": "US Dollar",
+        "code": "USD",
+        "symbol": "$",
+        "native": "$",
+        "plural": "US dollars"
+    },
+    "time_zone": {
+        "name": "America/Chicago",
+        "abbr": "CST",
+        "offset": "-0600",
+        "is_dst": false,
+        "current_time": "2023-03-08T08:42:55-06:00"
+    },
+    "threat": {
+        "is_tor": true,
+        "is_icloud_relay": false,
+        "is_proxy": true,
+        "is_datacenter": false,
+        "is_anonymous": true,
+        "is_known_attacker": false,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Dan.me",
+                "site": "https://www.dan.me.uk",
+                "type": "tor_exit_nodes"
+            },
+            {
+                "name": "sblam",
+                "site": "https://sblam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Stop Forum Spam",
+                "site": "https://www.stopforumspam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Tor Project",
+                "site": "https://torproject.org",
+                "type": "tor_exit_nodes"
+            }
+        ]
+    },
+    "count": "5",
+    "status": 200
+}
