@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "SE",
+        "domain": "m247.com",
+        "hostnames": [],
+        "ipAddress": "91.132.138.155",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": null,
+        "isp": "M247 Europe SRL",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
