@@ -1,0 +1,296 @@
+{
+   "ip":"95.128.43.164",
+   "country":"FR",
+   "as":"Aqua Ray SAS",
+   "rdns":"None",
+   "label":"",
+   "geodata":{
+      "status":"success",
+      "country":"France",
+      "countryCode":"FR",
+      "region":"IDF",
+      "regionName":"\u00cele-de-France",
+      "city":"Ivry-sur-Seine",
+      "zip":"94200",
+      "lat":48.8202,
+      "lon":2.39361,
+      "timezone":"Europe/Paris",
+      "isp":"Aquaray Provider - FR",
+      "org":"",
+      "as":"AS41653 Aqua Ray SAS",
+      "query":"95.128.43.164"
+   },
+   "vt":{
+      "resolutions":[
+         {
+            "date":"2022-09-03 19:53:33",
+            "domain":"block2.mmms.eu"
+         },
+         {
+            "date":"2018-05-15 20:33:53",
+            "domain":"falnasijack.kvrddns.com"
+         },
+         {
+            "date":"2018-05-15 20:32:12",
+            "domain":"tarekanto.kvrddns.com"
+         },
+         {
+            "date":"2018-04-06 21:10:14",
+            "domain":"twohands.strangled.net"
+         }
+      ],
+      "detected_urls":[
+         {
+            "date":"2023-02-10 13:23:19",
+            "url":"https://95.128.43.164/",
+            "detections":"5/90"
+         },
+         {
+            "date":"2023-02-10 10:39:14",
+            "url":"http://95.128.43.164/",
+            "detections":"5/90"
+         },
+         {
+            "date":"2022-09-09 08:11:54",
+            "url":"http://95.128.43.164/tor/server/fp/ec9d12c8f7f8721c4a9147f75e3d3f024c1b9c29",
+            "detections":"9/88"
+         },
+         {
+            "date":"2021-09-01 00:52:02",
+            "url":"http://95.128.43.164/tor/server/d/",
+            "detections":"8/89"
+         },
+         {
+            "date":"2021-08-31 16:49:58",
+            "url":"http://95.128.43.164/tor/server/fp/20d2a186a412ea433d9bad2fdbd7b48b36b20b34",
+            "detections":"12/89"
+         },
+         {
+            "date":"2021-08-30 12:59:06",
+            "url":"http://95.128.43.164/tor/server/fp/510f984f48c3c3fd217a77470d72f0bde90b194f",
+            "detections":"13/89"
+         },
+         {
+            "date":"2021-08-27 07:36:29",
+            "url":"http://95.128.43.164/tor/server/fp/",
+            "detections":"10/89"
+         },
+         {
+            "date":"2021-03-24 19:07:44",
+            "url":"http://95.128.43.164/tor",
+            "detections":"5/85"
+         },
+         {
+            "date":"2021-03-20 19:16:26",
+            "url":"http://95.128.43.164/tor/server",
+            "detections":"5/85"
+         },
+         {
+            "date":"2021-03-17 23:18:33",
+            "url":"http://95.128.43.164/tor/server/d",
+            "detections":"5/85"
+         }
+      ],
+      "detected_communicating_samples":[
+         {
+            "date":"2022-12-18 06:05:14",
+            "detections":"0/0",
+            "sha256":"4737de916f1c3b7dd5b90bdc723ec44409db419f5ea17d3161f2032be8d058d6"
+         },
+         {
+            "date":"2022-12-13 06:18:20",
+            "detections":"0/0",
+            "sha256":"0a7c802e80eede6f5cbbb605e6c8cf7b15602003c3c55c70f4127ffcb3c89d9f"
+         },
+         {
+            "date":"2022-12-09 19:43:27",
+            "detections":"0/0",
+            "sha256":"8aec0dba0ae96428ed8bddb2781ed7ba8c9d54ea2ac2fb498dbd118fa9ad8e7d"
+         },
+         {
+            "date":"2022-12-05 13:08:27",
+            "detections":"0/75",
+            "sha256":"7711085c4efc3bb946f471e287ec28ec1877a74879fda389725dc3f2b60d586d"
+         },
+         {
+            "date":"2022-11-30 18:15:19",
+            "detections":"0/0",
+            "sha256":"79ada7141250044b596a570f15f1af3bb4742d15e9139e08be2194c819cdb686"
+         },
+         {
+            "date":"2022-11-27 04:09:34",
+            "detections":"0/0",
+            "sha256":"e1750e1c4e4d6001bf4bf97b5e451626e4e69742139d65d4a48a0b9cc0615966"
+         },
+         {
+            "date":"2022-11-19 13:51:41",
+            "detections":"0/0",
+            "sha256":"c79a4c983414f5c52f0a2898ad1b21acba10334c5f2d52b4b85bc04c49adb350"
+         },
+         {
+            "date":"2022-11-14 12:25:09",
+            "detections":"0/0",
+            "sha256":"31fde5fd69c294cfca64c8d6d6846ca356e1cef092485958c30225a804a3d437"
+         },
+         {
+            "date":"2022-10-05 20:32:18",
+            "detections":"0/0",
+            "sha256":"6b9d82fa19ae0c5f1dfc8ecead8f2d0dad19f3f7e0e40c826521a0468f68aae7"
+         },
+         {
+            "date":"2022-09-29 13:08:12",
+            "detections":"0/0",
+            "sha256":"361dec77e232acc88525e97dc5ae6d23fe73afb164421db7f48906d40b309e96"
+         }
+      ],
+      "detected_downloaded_samples":[
+         {
+            "date":"2020-11-22 05:00:02",
+            "detections":"0/76",
+            "sha256":"7ba518d7137ec9adc09ad165dc64d18e437fc9c9f9a48474a412a1b5bfb467a8"
+         },
+         {
+            "date":"2017-09-25 04:08:58",
+            "detections":"0/57",
+            "sha256":"3c4f861412daff2224ec0b65d9599a04674731741523ac81671559ceb2ce8845"
+         }
+      ],
+      "detected_referrer_samples":[
+         {
+            "sha256":"fea7e3d44721305a81c15f0b3383696394520c479daa8542da7760f391291e7e",
+            "detections":"0/76"
+         },
+         {
+            "sha256":"f8db04013d1b823f39e3c228ce251751e79f9cd693b63661045fa94276421108",
+            "detections":"0/74"
+         },
+         {
+            "sha256":"f867f9c7a04168e8c83f910160cbbe115b4c8a9a8786fbfcd586e177fc283ded",
+            "detections":"0/74"
+         },
+         {
+            "sha256":"f696dbe61a13ff270dd393bc2e16f7bd6b5adad2b8c3f20abfe7a62550a7b2be",
+            "detections":"0/73"
+         },
+         {
+            "sha256":"f662dc89c2e98b52dd9ecc075a2c4c9051853f543d5b0fd0e6720548dae2e556",
+            "detections":"0/76"
+         },
+         {
+            "sha256":"f3ffac43bdf7b988310998ece687e035a527868b6be28a9b973baf7bc3e232cf",
+            "detections":"0/76"
+         },
+         {
+            "sha256":"ed4b3267bc70c9c10f6322540f43eafd0dcdea8c4d4e51d06725e7be2e8a1d45",
+            "detections":"0/76"
+         },
+         {
+            "sha256":"ebc2b409c13c6f59d24fe401f24bf6fdc309f0a46d06ea789a682345969f3081",
+            "detections":"0/74"
+         },
+         {
+            "sha256":"ea538befd88b75ad5bf6afe7b8174876cfc08c62dde32c87c7259a0551f11cdd",
+            "detections":"0/74"
+         },
+         {
+            "sha256":"ea1debfb71fec930481edec7ce1f08723d9df2f677cb7395a4e087c20aafe84c",
+            "detections":"0/76"
+         }
+      ]
+   },
+   "shodan":{
+      "region_code":"IDF",
+      "tags":[
+         
+      ],
+      "ip":1602235300,
+      "area_code":null,
+      "domains":[
+         "aquaray.com"
+      ],
+      "hostnames":[
+         "exit-1.fr.tor.aquaray.com"
+      ],
+      "country_code":"FR",
+      "org":"Tor servers",
+      "data":[
+         {
+            "info":"DirPortFrontPage configured",
+            "product":"Tor built-in httpd",
+            "http":{
+               "status":200,
+               "robots_hash":-367011193,
+               "redirects":[
+                  
+               ],
+               "securitytxt":null,
+               "title":"This is a Tor Exit Router",
+               "sitemap_hash":null,
+               "robots":"User-agent: *\r\nDisallow: /\r\n",
+               "server":null,
+               "headers_hash":-93124740,
+               "host":"95.128.43.164",
+               "html":"<?xml version=\"1.0\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\" />\n<title>This is a Tor Exit Router</title>\n\n<!--\n\nThis notice is intended to be placed on a virtual host for a domain that\nyour Tor exit node IP reverse resolves to so that people who may be about\nto file an abuse complaint would check it first before bothering you or\nyour ISP. Ex:\nhttp://tor-exit.yourdomain.org or http://tor-readme.yourdomain.org.\n\nThis type of setup has proven very effective at reducing abuse complaints\nfor exit node operators.\n\nThere are a few places in this document that you may want to customize.\nThey are marked with FIXME.\n\n-->\n\n</head>\n<body>\n\n<p style=\"text-align:center; font-size:xx-large; font-weight:bold\">This is a\nTor Exit Router</p>\n\n<p>\nMost likely you are accessing this website because you had some issue with\nthe traffic coming from this IP. This router is part of the <a\nhref=\"https://www.torproject.org/\">Tor Anonymity Network</a>, which is\ndedicated to <a href=\"https://www.torproject.org/about/overview\">providing\nprivacy</a> to people who need it most: average computer users. This\nrouter IP should be generating no other traffic, unless it has been\ncompromised.</p>\n\n\n<!-- FIXME: you should probably grab your own copy of how_tor_works_thumb.png\n     and serve it locally -->\n\n<p style=\"text-align:center\">\n<a href=\"https://www.torproject.org/about/overview\">\n<img src=\"https://www.torproject.org/images/how_tor_works_thumb.png\" alt=\"How Tor works\" style=\"border-style:none\"/>\n</a></p>\n\n<p>\nTor sees use by <a href=\"https://www.torproject.org/about/torusers\">many\nimportant segments of the population</a>, including whistle blowers,\njournalists, Chinese dissidents skirting the Great Firewall and oppressive\ncensorship, abuse victims, stalker targets, the US military, and law\nenforcement, just to name a few.  While Tor is not designed for malicious\ncomputer users, it is true that they can use the network for malicious ends.\nIn reality however, the actual amount of <a\nhref=\"https://www.torproject.org/docs/faq-abuse\">abuse</a> is quite low. This\nis largely because criminals and hackers have significantly better access to\nprivacy and anonymity than do the regular users whom they prey upon. Criminals\ncan and do <a\nhref=\"http://voices.washingtonpost.com/securityfix/2008/08/web_fraud_20_tools.html\">build,\nsell, and trade</a> far larger and <a\nhref=\"http://voices.washingtonpost.com/securityfix/2008/08/web_fraud_20_distributing_your.html\">more\npowerful networks</a> than Tor on a daily basis. Thus, in the mind of this\noperator, the social need for easily accessible censorship-resistant private,\nanonymous communication trumps the risk of unskilled bad actors, who are\nalmost always more easily uncovered by traditional police work than by\nextensive monitoring and surveillance anyway.</p>\n\n<p>\nIn terms of applicable law, the best way to understand Tor is to consider it a\nnetwork of routers operating as common carriers, much like the Internet\nbackbone. However, unlike the Internet backbone routers, Tor routers\nexplicitly do not contain identifiable routing information about the source of\na packet, and no single Tor node can determine both the origin and destination\nof a given transmission.</p>\n\n<p>\nAs such, there is little the operator of this router can do to help you track\nthe connection further. This router maintains no logs of any of the Tor\ntraffic, so there is little that can be done to trace either legitimate or\nillegitimate traffic (or to filter one from the other).  Attempts to\nseize this router will accomplish nothing.</p>\n\n<!-- FIXME: US-Only section. Remove if you are a non-US operator -->\n\n<p>\nFurthermore, this machine also serves as a carrier of email, which means that\nits contents are further protected under the ECPA. <a\nhref=\"http://www.law.cornell.edu/uscode/text/18/2707\">18\nUSC 2707</a> explicitly allows for civil remedies ($1000/account\n<i><b>plus</b></i>  legal fees)\nin the event of a seizure executed without good faith or probable cause (it\nshould be clear at this point that traffic with an originating IP address of\nFIXME_DNS_NAME should not constitute probable cause to seize the\nmachine). Similar considerations exist for 1st amendment content on this\nmachine.</p>\n\n<!-- FIXME: May or may not be US-only. Some non-US tor nodes have in\n     fact reported DMCA harassment... -->\n\n<p>\nIf you are a representative of a company who feels that this router is being\nused to violate the DMCA, please be aware that this machine does not host or\ncontain any illegal content. Also be aware that network infrastructure\nmaintainers are not liable for the type of content that passes over their\nequipment, in accordance with <a\nhref=\"http://www.law.cornell.edu/uscode/text/17/512\">DMCA\n\"safe harbor\" provisions</a>. In other words, you will have just as much luck\nsending a takedown notice to the Internet backbone providers. Please consult\n<a href=\"https://www.torproject.org/eff/tor-dmca-response\">EFF's prepared\nresponse</a> for more information on this matter.</p>\n\n<p>For more information, please consult the following documentation:</p>\n\n<ol>\n<li><a href=\"https://www.torproject.org/about/overview\">Tor Overview</a></li>\n<li><a href=\"https://www.torproject.org/docs/faq-abuse\">Tor Abuse FAQ</a></li>\n<li><a href=\"https://www.torproject.org/eff/tor-legal-faq\">Tor Legal FAQ</a></li>\n</ol>\n\n<p>\nThat being said, if you still have a complaint about the router,  you may\nemail the <a href=\"mailto:FIXME_YOUR_EMAIL_ADDRESS\">maintainer</a>. If\ncomplaints are related to a particular service that is being abused, I will\nconsider removing that service from my exit policy, which would prevent my\nrouter from allowing that traffic to exit through it. I can only do this on an\nIP+destination port basis, however. Common P2P ports are\nalready blocked.</p>\n\n<p>\nYou also have the option of blocking this IP address and others on\nthe Tor network if you so desire. The Tor project provides a <a\nhref=\"https://check.torproject.org/cgi-bin/TorBulkExitList.py\">web service</a>\nto fetch a list of all IP addresses of Tor exit nodes that allow exiting to a\nspecified IP:port combination, and an official <a\nhref=\"https://www.torproject.org/tordnsel/dist/\">DNSRBL</a> is also available to\ndetermine if a given IP address is actually a Tor exit server. Please\nbe considerate\nwhen using these options. It would be unfortunate to deny all Tor users access\nto your site indefinitely simply because of a few bad apples.</p>\n\n</body>\n</html>\n",
+               "location":"/",
+               "components":{
+                  
+               },
+               "html_hash":2112866879,
+               "sitemap":null,
+               "securitytxt_hash":null
+            },
+            "os":null,
+            "timestamp":"2023-03-06T10:30:34.048654",
+            "isp":"Aqua Ray SAS",
+            "transport":"tcp",
+            "_shodan":{
+               "region":"na",
+               "ptr":true,
+               "module":"http",
+               "id":"374cb5e5-0389-4c91-9e4b-11c683df315a",
+               "options":{
+                  
+               },
+               "crawler":"308515b6113c0645034fb8122d0ff0d5194e7e72"
+            },
+            "hash":-1183554764,
+            "asn":"AS41653",
+            "hostnames":[
+               "exit-1.fr.tor.aquaray.com"
+            ],
+            "location":{
+               "city":"Ivry-sur-Seine",
+               "region_code":"IDF",
+               "area_code":null,
+               "longitude":2.38487,
+               "latitude":48.81568,
+               "country_code":"FR",
+               "country_name":"France"
+            },
+            "ip":1602235300,
+            "domains":[
+               "aquaray.com"
+            ],
+            "org":"Tor servers",
+            "data":"HTTP/1.0 200 OK\r\nDate: Mon, 06 Mar 2023 10:30:33 GMT\r\nContent-Type: text/html\r\nX-Your-Address-Is: 224.255.129.16\r\nContent-Encoding: identity\r\nContent-Length: 6666\r\nExpires: Mon, 06 Mar 2023 10:50:33 GMT\r\n\r\n",
+            "port":80,
+            "opts":{
+               
+            },
+            "ip_str":"95.128.43.164"
+         }
+      ],
+      "asn":"AS41653",
+      "city":"Ivry-sur-Seine",
+      "latitude":48.81568,
+      "isp":"Aqua Ray SAS",
+      "longitude":2.38487,
+      "last_update":"2023-03-06T10:30:34.048654",
+      "country_name":"France",
+      "ip_str":"95.128.43.164",
+      "os":null,
+      "ports":[
+         80
+      ]
+   }
+}
