@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 75,
+        "countryCode": "FR",
+        "domain": "aquaray.com",
+        "hostnames": [
+            "exit-1.fr.tor.aquaray.com"
+        ],
+        "ipAddress": "95.128.43.164",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "Aqua Ray SAS",
+        "lastReportedAt": "2023-03-06T11:26:01+00:00",
+        "numDistinctUsers": 14,
+        "totalReports": 29,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
