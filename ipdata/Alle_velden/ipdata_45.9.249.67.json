@@ -1,0 +1,68 @@
+{
+    "ip": "45.9.249.67",
+    "is_eu": false,
+    "city": "Dubai",
+    "region": "Dubayy",
+    "region_code": "DU",
+    "region_type": "emirate",
+    "country_name": "United Arab Emirates",
+    "country_code": "AE",
+    "continent_name": "Asia",
+    "continent_code": "AS",
+    "latitude": 25.2632999420166,
+    "longitude": 55.30870056152344,
+    "postal": null,
+    "calling_code": "971",
+    "flag": "https://ipdata.co/flags/ae.png",
+    "emoji_flag": "\ud83c\udde6\ud83c\uddea",
+    "emoji_unicode": "U+1F1E6 U+1F1EA",
+    "asn": {
+        "asn": "AS9009",
+        "name": "M247 Europe SRL",
+        "domain": "m247.ro",
+        "route": "45.9.249.0/24",
+        "type": "business"
+    },
+    "languages": [
+        {
+            "name": "Arabic",
+            "native": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "rtl": 1,
+            "code": "ar"
+        }
+    ],
+    "currency": {
+        "name": "United Arab Emirates Dirham",
+        "code": "AED",
+        "symbol": "AED",
+        "native": "\u062f.\u0625.\u200f",
+        "plural": "UAE dirhams"
+    },
+    "time_zone": {
+        "name": "Asia/Dubai",
+        "abbr": "+04",
+        "offset": "+0400",
+        "is_dst": false,
+        "current_time": "2023-03-08T13:40:30+04:00"
+    },
+    "threat": {
+        "is_tor": false,
+        "is_icloud_relay": false,
+        "is_proxy": false,
+        "is_datacenter": false,
+        "is_anonymous": false,
+        "is_known_attacker": false,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Stop Forum Spam",
+                "site": "https://www.stopforumspam.com",
+                "type": "spam"
+            }
+        ]
+    },
+    "count": "18",
+    "status": 200
+}
