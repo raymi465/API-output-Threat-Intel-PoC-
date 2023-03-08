@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 95,
+        "countryCode": "DE",
+        "domain": "aeza.net",
+        "hostnames": [
+            "tor.node7.shadowbrokers.eu"
+        ],
+        "ipAddress": "79.137.202.92",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "Aeza Group LLC",
+        "lastReportedAt": "2023-03-07T18:18:41+00:00",
+        "numDistinctUsers": 20,
+        "totalReports": 35,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
