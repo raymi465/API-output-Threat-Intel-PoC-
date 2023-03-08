@@ -1,0 +1,55 @@
+{
+   "ip":"45.9.249.67",
+   "city":"Dubai",
+   "region":"Dubai",
+   "country":"AE",
+   "loc":"25.0772,55.3093",
+   "org":"AS9009 M247 Europe SRL",
+   "timezone":"Asia/Dubai",
+   "asn":{
+      "asn":"AS9009",
+      "name":"M247 Europe SRL",
+      "domain":"m247.com",
+      "route":"45.9.249.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"M247 Ltd Dubai",
+      "domain":"m247.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":true,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":"NordVPN"
+   },
+   "abuse":{
+      "address":"1 Ball Green, Cobra Court, M32 0QT, Manchester - United Kingdom",
+      "country":"GB",
+      "email":"abuse@m247.ro",
+      "name":"GLOBALAXS NOC",
+      "network":"45.9.249.0/24",
+      "phone":""
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
