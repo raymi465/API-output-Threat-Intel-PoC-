@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 4,
+        "countryCode": "JP",
+        "domain": "cdn77.com",
+        "hostnames": [
+            "unn-212-102-50-66.cdn77.com"
+        ],
+        "ipAddress": "212.102.50.66",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "DataCamp Limited",
+        "lastReportedAt": "2023-03-08T07:43:34+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 2,
+        "usageType": "Content Delivery Network"
+    }
+}
