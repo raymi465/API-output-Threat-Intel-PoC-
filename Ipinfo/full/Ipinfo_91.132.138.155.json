@@ -1,0 +1,56 @@
+{
+   "ip":"91.132.138.155",
+   "city":"Stockholm",
+   "region":"Stockholm",
+   "country":"SE",
+   "loc":"59.3294,18.0687",
+   "org":"AS9009 M247 Europe SRL",
+   "postal":"100 05",
+   "timezone":"Europe/Stockholm",
+   "asn":{
+      "asn":"AS9009",
+      "name":"M247 Europe SRL",
+      "domain":"m247.com",
+      "route":"91.132.138.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"M247 LTD Stockholm Infrastructure",
+      "domain":"m247.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":true,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":"NordVPN"
+   },
+   "abuse":{
+      "address":"1 Ball Green, Cobra Court, M32 0QT, Manchester - United Kingdom",
+      "country":"GB",
+      "email":"abuse@m247.ro",
+      "name":"GLOBALAXS NOC",
+      "network":"91.132.138.0/24",
+      "phone":""
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
