@@ -1,0 +1,57 @@
+{
+   "ip":"79.137.202.92",
+   "hostname":"tor.node7.shadowbrokers.eu",
+   "city":"Frankfurt am Main",
+   "region":"Hesse",
+   "country":"DE",
+   "loc":"50.1112,8.6831",
+   "org":"AS210644 AEZA GROUP Ltd",
+   "postal":"60311",
+   "timezone":"Europe/Berlin",
+   "asn":{
+      "asn":"AS210644",
+      "name":"AEZA GROUP Ltd",
+      "domain":"aeza.net",
+      "route":"79.137.202.0/23",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"AEZA GROUP LLC",
+      "domain":"aeza.net",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":true,
+      "relay":false,
+      "hosting":true,
+      "service":""
+   },
+   "abuse":{
+      "address":"350001, g Krasnodar, ul im. Mayakovskogo, d. 160, ofis 2.4",
+      "country":"DE",
+      "email":"abuse@aeza.net",
+      "name":"aezagroup",
+      "network":"79.137.202.0/23",
+      "phone":""
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
