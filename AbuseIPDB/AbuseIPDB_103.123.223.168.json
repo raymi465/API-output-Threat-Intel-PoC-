@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 3,
+        "countryCode": "IN",
+        "domain": "kenstar.com",
+        "hostnames": [],
+        "ipAddress": "103.123.223.168",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "Kenstar Web Solutions Private Limited",
+        "lastReportedAt": "2023-02-22T13:31:16+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 1,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
