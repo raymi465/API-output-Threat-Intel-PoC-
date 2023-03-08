@@ -1,0 +1,89 @@
+{
+    "ip": "79.137.202.92",
+    "is_eu": true,
+    "city": "Frankfurt",
+    "region": "Bayern",
+    "region_code": "BY",
+    "region_type": "Land",
+    "country_name": "Germany",
+    "country_code": "DE",
+    "continent_name": "Europe",
+    "continent_code": "EU",
+    "latitude": 49.68333053588867,
+    "longitude": 10.533329963684082,
+    "postal": null,
+    "calling_code": "49",
+    "flag": "https://ipdata.co/flags/de.png",
+    "emoji_flag": "\ud83c\udde9\ud83c\uddea",
+    "emoji_unicode": "U+1F1E9 U+1F1EA",
+    "asn": {
+        "asn": "AS210644",
+        "name": "AEZA Group Ltd",
+        "domain": "aeza.net",
+        "route": "79.137.202.0/23",
+        "type": "business"
+    },
+    "languages": [
+        {
+            "name": "German",
+            "native": "Deutsch",
+            "code": "de"
+        }
+    ],
+    "currency": {
+        "name": "Euro",
+        "code": "EUR",
+        "symbol": "\u20ac",
+        "native": "\u20ac",
+        "plural": "euros"
+    },
+    "time_zone": {
+        "name": "Europe/Berlin",
+        "abbr": "CET",
+        "offset": "+0100",
+        "is_dst": false,
+        "current_time": "2023-03-08T08:11:05+01:00"
+    },
+    "threat": {
+        "is_tor": true,
+        "is_icloud_relay": false,
+        "is_proxy": true,
+        "is_datacenter": false,
+        "is_anonymous": true,
+        "is_known_attacker": true,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Dan.me",
+                "site": "https://www.dan.me.uk",
+                "type": "tor_exit_nodes"
+            },
+            {
+                "name": "DataPlane.org",
+                "site": "https://dataplane.org",
+                "type": "general"
+            },
+            {
+                "name": "sblam",
+                "site": "https://sblam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Stop Forum Spam",
+                "site": "https://www.stopforumspam.com",
+                "type": "spam"
+            },
+            {
+                "name": "Tor Project",
+                "site": "https://torproject.org",
+                "type": "tor_exit_nodes"
+            }
+        ]
+    },
+    "count": "3",
+    "status": 200
+}
+
+Process finished with exit code 0
