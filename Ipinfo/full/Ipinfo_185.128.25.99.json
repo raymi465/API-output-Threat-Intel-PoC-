@@ -1,0 +1,56 @@
+{
+   "ip":"185.128.25.99",
+   "city":"Paris",
+   "region":"Île-de-France",
+   "country":"FR",
+   "loc":"48.8567,2.3497",
+   "org":"AS9009 M247 Europe SRL",
+   "postal":"75004",
+   "timezone":"Europe/Paris",
+   "asn":{
+      "asn":"AS9009",
+      "name":"M247 Europe SRL",
+      "domain":"m247.com",
+      "route":"185.128.25.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"M247 LTD Paris Infrastructure",
+      "domain":"m247.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":true,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":"NordVPN"
+   },
+   "abuse":{
+      "address":"Sos. Fabrica de Glucoza, Nr 11B, etaj 1, Sector 2, Bucuresti Romania",
+      "country":"RO",
+      "email":"abuse@m247.ro",
+      "name":"M247 Europe",
+      "network":"185.128.25.0/24",
+      "phone":""
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
