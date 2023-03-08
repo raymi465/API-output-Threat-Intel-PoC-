@@ -1,0 +1,121 @@
+{
+    "ip": "91.132.138.155",
+    "type": "IPv4",
+    "hostname": null,
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": "m247.ro",
+        "name": "M247 Ltd Stockholm",
+        "type": "business"
+    },
+    "connection": {
+        "asn": 9009,
+        "domain": "m247.ro",
+        "organization": "M247 Europe SRL",
+        "route": "91.132.138.0/24",
+        "type": "hosting"
+    },
+    "currency": {
+        "code": "SEK",
+        "name": "Swedish Krona",
+        "name_native": "svensk krona",
+        "plural": "Swedish kronor",
+        "plural_native": "svenska kronor",
+        "symbol": "SEK",
+        "symbol_native": "kr",
+        "format": {
+            "negative": {
+                "prefix": "\u2212",
+                "suffix": "\u00a0kr"
+            },
+            "positive": {
+                "prefix": "",
+                "suffix": "\u00a0kr"
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "EU",
+            "name": "Europe"
+        },
+        "country": {
+            "area": 449964,
+            "borders": [
+                "FI",
+                "NO"
+            ],
+            "calling_code": "46",
+            "capital": "Stockholm",
+            "code": "SE",
+            "name": "Sweden",
+            "population": 10415811,
+            "population_density": 23.15,
+            "flag": {
+                "emoji": "\ud83c\uddf8\ud83c\uddea",
+                "emoji_unicode": "U+1F1F8 U+1F1EA",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/se.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/se.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/se.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/se.svg"
+            },
+            "languages": [
+                {
+                    "code": "sv",
+                    "name": "Swedish",
+                    "native": "svenska"
+                },
+                {
+                    "code": "se",
+                    "name": "Northern Sami",
+                    "native": "davvis\u00e1megiella"
+                },
+                {
+                    "code": "fi",
+                    "name": "Finnish",
+                    "native": "suomi"
+                }
+            ],
+            "tld": ".se"
+        },
+        "region": {
+            "code": "SE-AB",
+            "name": "Stockholms l\u00e4n"
+        },
+        "city": "Stockholm",
+        "postal": "103 21",
+        "latitude": 59.3293,
+        "longitude": 18.0686,
+        "language": {
+            "code": "sv",
+            "name": "Swedish",
+            "native": "svenska"
+        },
+        "in_eu": true
+    },
+    "security": {
+        "is_abuser": false,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": true,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_vpn": true,
+        "is_anonymous": true,
+        "is_threat": false
+    },
+    "time_zone": {
+        "id": "Europe/Berlin",
+        "abbreviation": "CET",
+        "current_time": "2023-03-08T10:04:47+01:00",
+        "name": "Central European Standard Time",
+        "offset": 3600,
+        "in_daylight_saving": false
+    }
+}
