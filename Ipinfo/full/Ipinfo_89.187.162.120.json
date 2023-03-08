@@ -1,0 +1,57 @@
+{
+   "ip":"89.187.162.120",
+   "hostname":"unn-89-187-162-120.cdn77.com",
+   "city":"Singapore",
+   "region":"Singapore",
+   "country":"SG",
+   "loc":"1.2824,103.8584",
+   "org":"AS60068 Datacamp Limited",
+   "postal":"018956",
+   "timezone":"Asia/Singapore",
+   "asn":{
+      "asn":"AS60068",
+      "name":"Datacamp Limited",
+      "domain":"cdn77.com",
+      "route":"89.187.162.0/23",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"CDN77 Singapore",
+      "domain":"cdn77.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":true,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":"NordVPN"
+   },
+   "abuse":{
+      "address":"Datacamp limited, 207 Regent Street, United Kingdom, CZECH REPUBLIC",
+      "country":"SG",
+      "email":"abuse@datacamp.co.uk",
+      "name":"Abuse Contact",
+      "network":"89.187.162.0-89.187.162.239",
+      "phone":""
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
