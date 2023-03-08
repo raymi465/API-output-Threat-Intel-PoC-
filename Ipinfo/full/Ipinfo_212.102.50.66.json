@@ -1,0 +1,57 @@
+{
+   "ip":"212.102.50.66",
+   "hostname":"unn-212-102-50-66.cdn77.com",
+   "city":"Tokyo",
+   "region":"Tokyo",
+   "country":"JP",
+   "loc":"35.6895,139.6917",
+   "org":"AS60068 Datacamp Limited",
+   "postal":"101-8656",
+   "timezone":"Asia/Tokyo",
+   "asn":{
+      "asn":"AS60068",
+      "name":"Datacamp Limited",
+      "domain":"cdn77.com",
+      "route":"212.102.50.0/24",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"Datacamp Limited",
+      "domain":"datacamp.co.uk",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":true,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":"NordVPN"
+   },
+   "abuse":{
+      "address":"Datacamp Limited, Zdenek Cendra, 207 Regent Street, W1B 3HH, London, UNITED KINGDOM",
+      "country":"JP",
+      "email":"abuse@datacamp.co.uk",
+      "name":"Abuse Contact",
+      "network":"212.102.50.64-212.102.51.255",
+      "phone":""
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
