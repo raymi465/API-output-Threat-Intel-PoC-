@@ -1,0 +1,30 @@
+{
+    "ip": "103.123.223.168",
+    "asn": {
+        "asn": "AS138329",
+        "name": "Kenstar Web Solutions Private Limited",
+        "domain": "kenstar.com",
+        "route": "103.123.223.0/24",
+        "type": "business"
+    },
+    "country_name": "India",
+    "threat": {
+        "is_tor": false,
+        "is_icloud_relay": false,
+        "is_proxy": false,
+        "is_datacenter": false,
+        "is_anonymous": false,
+        "is_known_attacker": true,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Abuse.ch",
+                "site": "https://abuse.ch",
+                "type": "botnet_c2"
+            }
+        ]
+    },
+    "status": 200
+}
