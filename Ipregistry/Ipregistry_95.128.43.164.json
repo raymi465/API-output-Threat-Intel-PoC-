@@ -1,0 +1,142 @@
+{
+    "ip": "95.128.43.164",
+    "type": "IPv4",
+    "hostname": "exit-1.fr.tor.aquaray.com",
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": null,
+        "name": "Tor Servers",
+        "type": "business"
+    },
+    "connection": {
+        "asn": 41653,
+        "domain": "aquaray.com",
+        "organization": "Aqua Ray SAS",
+        "route": "95.128.43.0/24",
+        "type": "hosting"
+    },
+    "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "name_native": "euro",
+        "plural": "euros",
+        "plural_native": "euros",
+        "symbol": "\u20ac",
+        "symbol_native": "\u20ac",
+        "format": {
+            "negative": {
+                "prefix": "-",
+                "suffix": "\u00a0\u20ac"
+            },
+            "positive": {
+                "prefix": "",
+                "suffix": "\u00a0\u20ac"
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "EU",
+            "name": "Europe"
+        },
+        "country": {
+            "area": 547030,
+            "borders": [
+                "AD",
+                "BE",
+                "CH",
+                "DE",
+                "ES",
+                "IT",
+                "LU",
+                "MC"
+            ],
+            "calling_code": "33",
+            "capital": "Paris",
+            "code": "FR",
+            "name": "France",
+            "population": 67749632,
+            "population_density": 123.85,
+            "flag": {
+                "emoji": "\ud83c\uddeb\ud83c\uddf7",
+                "emoji_unicode": "U+1F1EB U+1F1F7",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/fr.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/fr.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/fr.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/fr.svg"
+            },
+            "languages": [
+                {
+                    "code": "fr",
+                    "name": "French",
+                    "native": "fran\u00e7ais"
+                },
+                {
+                    "code": "br",
+                    "name": "Breton",
+                    "native": "brezhoneg"
+                },
+                {
+                    "code": "co",
+                    "name": "Corsican",
+                    "native": "Corsican"
+                },
+                {
+                    "code": "ca",
+                    "name": "Catalan",
+                    "native": "catal\u00e0"
+                },
+                {
+                    "code": "eu",
+                    "name": "Basque",
+                    "native": "euskara"
+                },
+                {
+                    "code": "oc",
+                    "name": "Occitan",
+                    "native": "Occitan"
+                }
+            ],
+            "tld": ".fr"
+        },
+        "region": {
+            "code": "FR-IDF",
+            "name": "\u00cele-de-France"
+        },
+        "city": "Ivry-sur-Seine",
+        "postal": "94200",
+        "latitude": 48.81569,
+        "longitude": 2.38486,
+        "language": {
+            "code": "fr",
+            "name": "French",
+            "native": "fran\u00e7ais"
+        },
+        "in_eu": true
+    },
+    "security": {
+        "is_abuser": true,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": true,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": true,
+        "is_tor_exit": true,
+        "is_vpn": false,
+        "is_anonymous": true,
+        "is_threat": true
+    },
+    "time_zone": {
+        "id": "Europe/Paris",
+        "abbreviation": "CET",
+        "current_time": "2023-03-08T08:09:06+01:00",
+        "name": "Central European Standard Time",
+        "offset": 3600,
+        "in_daylight_saving": false
+    }
+}
