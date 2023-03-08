@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 17,
+        "countryCode": "FR",
+        "domain": "m247.com",
+        "hostnames": [],
+        "ipAddress": "185.128.25.99",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "M247 Europe SRL",
+        "lastReportedAt": "2023-02-11T19:16:41+00:00",
+        "numDistinctUsers": 3,
+        "totalReports": 3,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
