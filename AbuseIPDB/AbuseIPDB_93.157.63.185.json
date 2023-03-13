@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "RU",
+        "domain": "pht660n.com.br",
+        "hostnames": [],
+        "ipAddress": "93.157.63.185",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "Private Internet Hosting LTD",
+        "lastReportedAt": "2022-07-31T19:08:35+00:00",
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
