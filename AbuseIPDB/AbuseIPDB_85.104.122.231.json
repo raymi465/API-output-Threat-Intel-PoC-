@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "TR",
+        "domain": "turktelekom.com.tr",
+        "hostnames": [
+            "85.104.122.231.dynamic.ttnet.com.tr"
+        ],
+        "ipAddress": "85.104.122.231",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": null,
+        "isp": "Turk Telekomunikasyon Anonim Sirketi",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Fixed Line ISP"
+    }
+}
