@@ -1,0 +1,61 @@
+{
+    "ip": "217.23.3.76",
+    "is_eu": true,
+    "city": "Naaldwijk",
+    "region": "Zuid Holland",
+    "region_code": "ZH",
+    "region_type": "province",
+    "country_name": "Netherlands",
+    "country_code": "NL",
+    "continent_name": "Europe",
+    "continent_code": "EU",
+    "latitude": 51.99810028076172,
+    "longitude": 4.197999954223633,
+    "postal": "2671",
+    "calling_code": "31",
+    "flag": "https://ipdata.co/flags/nl.png",
+    "emoji_flag": "\ud83c\uddf3\ud83c\uddf1",
+    "emoji_unicode": "U+1F1F3 U+1F1F1",
+    "asn": {
+        "asn": "AS49981",
+        "name": "Worldstream B.V",
+        "domain": "worldstream.nl",
+        "route": "217.23.0.0/20",
+        "type": "hosting"
+    },
+    "languages": [
+        {
+            "name": "Dutch",
+            "native": "Nederlands",
+            "code": "nl"
+        }
+    ],
+    "currency": {
+        "name": "Euro",
+        "code": "EUR",
+        "symbol": "\u20ac",
+        "native": "\u20ac",
+        "plural": "euros"
+    },
+    "time_zone": {
+        "name": "Europe/Amsterdam",
+        "abbr": "CET",
+        "offset": "+0100",
+        "is_dst": false,
+        "current_time": "2023-03-13T09:29:39+01:00"
+    },
+    "threat": {
+        "is_tor": false,
+        "is_icloud_relay": false,
+        "is_proxy": false,
+        "is_datacenter": true,
+        "is_anonymous": false,
+        "is_known_attacker": false,
+        "is_known_abuser": false,
+        "is_threat": false,
+        "is_bogon": false,
+        "blocklists": []
+    },
+    "count": "6",
+    "status": 200
+}
