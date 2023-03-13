@@ -1,0 +1,132 @@
+{
+    "ip": "85.104.122.231",
+    "type": "IPv4",
+    "hostname": "85.104.122.231.dynamic.ttnet.com.tr",
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": "telekom.gov.tr",
+        "name": "Turk Telekom Adsl-tt Net",
+        "type": "government"
+    },
+    "connection": {
+        "asn": 47331,
+        "domain": "turktelekom.com.tr",
+        "organization": "Ttnet A.S.",
+        "route": "85.104.122.0/24",
+        "type": "isp"
+    },
+    "currency": {
+        "code": "TRY",
+        "name": "Turkish Lira",
+        "name_native": "T\u00fcrk Liras\u0131",
+        "plural": "Turkish Lira",
+        "plural_native": "T\u00fcrk liras\u0131",
+        "symbol": "TRY",
+        "symbol_native": "\u20ba",
+        "format": {
+            "negative": {
+                "prefix": "-\u20ba",
+                "suffix": ""
+            },
+            "positive": {
+                "prefix": "\u20ba",
+                "suffix": ""
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "EU",
+            "name": "Europe"
+        },
+        "country": {
+            "area": 780580,
+            "borders": [
+                "AM",
+                "AZ",
+                "BG",
+                "GE",
+                "GR",
+                "IQ",
+                "IR",
+                "SY"
+            ],
+            "calling_code": "90",
+            "capital": "Ankara",
+            "code": "TR",
+            "name": "T\u00fcrkiye",
+            "population": 84775404,
+            "population_density": 108.61,
+            "flag": {
+                "emoji": "\ud83c\uddf9\ud83c\uddf7",
+                "emoji_unicode": "U+1F1F9 U+1F1F7",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tr.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/tr.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tr.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tr.svg"
+            },
+            "languages": [
+                {
+                    "code": "tr",
+                    "name": "Turkish",
+                    "native": "T\u00fcrk\u00e7e"
+                },
+                {
+                    "code": "ku",
+                    "name": "Kurdish",
+                    "native": "kurd\u00ee"
+                },
+                {
+                    "code": "az",
+                    "name": "Azerbaijani",
+                    "native": "az\u0259rbaycan"
+                },
+                {
+                    "code": "av",
+                    "name": "Avaric",
+                    "native": "Avaric"
+                }
+            ],
+            "tld": ".tr"
+        },
+        "region": {
+            "code": "TR-34",
+            "name": "\u0130stanbul"
+        },
+        "city": "Istanbul",
+        "postal": "34096",
+        "latitude": 41.01448,
+        "longitude": 28.95327,
+        "language": {
+            "code": "tr",
+            "name": "Turkish",
+            "native": "T\u00fcrk\u00e7e"
+        },
+        "in_eu": false
+    },
+    "security": {
+        "is_abuser": false,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": false,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_vpn": false,
+        "is_anonymous": false,
+        "is_threat": false
+    },
+    "time_zone": {
+        "id": "Europe/Istanbul",
+        "abbreviation": "TRT",
+        "current_time": "2023-03-08T17:39:38+03:00",
+        "name": "Turkey Time",
+        "offset": 10800,
+        "in_daylight_saving": false
+    }
+}
