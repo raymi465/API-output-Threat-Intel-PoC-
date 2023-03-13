@@ -1,0 +1,320 @@
+{
+    "ip": "85.104.122.231",
+    "country": "TR",
+    "as": "Turk Telekom",
+    "rdns": "None",
+    "label": "",
+    "geodata": {
+        "status": "success",
+        "country": "Turkey",
+        "countryCode": "TR",
+        "region": "34",
+        "regionName": "Istanbul",
+        "city": "Istanbul",
+        "zip": "34096",
+        "lat": 41.0145,
+        "lon": 28.9533,
+        "timezone": "Europe/Istanbul",
+        "isp": "TTNet A.S.",
+        "org": "Turk Telekomunikasyon A.S",
+        "as": "AS47331 TTNet A.S.",
+        "query": "85.104.122.231"
+    },
+    "vt": {
+        "resolutions": [
+            {
+                "date": "2023-03-08 07:58:05",
+                "domain": "bad2.yourironcore.com"
+            },
+            {
+                "date": "2022-05-25 08:55:22",
+                "domain": "bad3.yourironcore.com"
+            }
+        ],
+        "detected_urls": [
+            {
+                "date": "2023-03-06 07:24:29",
+                "url": "http://85.104.122.231/",
+                "detections": "10/90"
+            },
+            {
+                "date": "2023-02-12 01:22:13",
+                "url": "https://85.104.122.231/",
+                "detections": "9/90"
+            },
+            {
+                "date": "2022-10-03 20:47:03",
+                "url": "http://85.104.122.231/t5",
+                "detections": "13/89"
+            },
+            {
+                "date": "2022-09-13 18:56:11",
+                "url": "https://85.104.122.231/t5",
+                "detections": "10/88"
+            },
+            {
+                "date": "2022-09-10 17:53:21",
+                "url": "http://85.104.122.231:443/",
+                "detections": "8/88"
+            },
+            {
+                "date": "2022-04-29 15:44:45",
+                "url": "tcp://85.104.122.231:443/",
+                "detections": "5/93"
+            }
+        ],
+        "detected_communicating_samples": [
+            {
+                "date": "2022-09-12 13:12:12",
+                "detections": "40/75",
+                "sha256": "ae6ce02ebd1129c7ef79a5fd45226c58f84c2c4496dfe5a9bb010ac57410408b"
+            }
+        ],
+        "detected_downloaded_samples": [
+            {
+                "date": "2022-12-12 17:02:15",
+                "detections": "0/76",
+                "sha256": "4fee32fb8b130a7d5c4b176767a85ab4c5bd6cb1f6cd0a7c506aa476ccfaec0e"
+            }
+        ],
+        "detected_referrer_samples": [
+            {
+                "sha256": "8c90918f06240a9a7e0c543546b6d003c4a090e6efa1b6031cd48379945371e7",
+                "detections": "0/76"
+            }
+        ]
+    },
+    "shodan": {
+        "region_code": "34",
+        "tags": [
+            "vpn",
+            "self-signed"
+        ],
+        "ip": 1432910567,
+        "area_code": null,
+        "domains": [
+            "ttnet.com.tr"
+        ],
+        "hostnames": [
+            "85.104.122.231.dynamic.ttnet.com.tr"
+        ],
+        "country_code": "TR",
+        "org": "Turk Telekomunikasyon Anonim Sirketi",
+        "data": [
+            {
+                "ip": 1432910567,
+                "http": {
+                    "status": 200,
+                    "robots_hash": null,
+                    "redirects": [],
+                    "securitytxt": null,
+                    "title": "Welcome to CentOS",
+                    "sitemap_hash": null,
+                    "robots": null,
+                    "server": "nginx/1.9.12",
+                    "headers_hash": -1219739159,
+                    "host": "85.104.122.231",
+                    "html": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <title>Welcome to CentOS</title>\n  <style rel=\"stylesheet\" type=\"text/css\"> \n\n\thtml {\n\tbackground-image:url(img/html-background.png);\n\tbackground-color: white;\n\tfont-family: \"DejaVu Sans\", \"Liberation Sans\", sans-serif;\n\tfont-size: 0.85em;\n\tline-height: 1.25em;\n\tmargin: 0 4% 0 4%;\n\t}\n\n\tbody {\n\tborder: 10px solid #fff;\n\tmargin:0;\n\tpadding:0;\n\tbackground: #fff;\n\t}\n\n\t/* Links */\n\n\ta:link { border-bottom: 1px dotted #ccc; text-decoration: none; color: #204d92; }\n\ta:hover { border-bottom:1px dotted #ccc; text-decoration: underline; color: green; }\n\ta:active {  border-bottom:1px dotted #ccc; text-decoration: underline; color: #204d92; }\n\ta:visited { border-bottom:1px dotted #ccc; text-decoration: none; color: #204d92; }\n\ta:visited:hover { border-bottom:1px dotted #ccc; text-decoration: underline; color: green; }\n \n\t.logo a:link,\n\t.logo a:hover,\n\t.logo a:visited { border-bottom: none; }\n\n\t.mainlinks a:link { border-bottom: 1px dotted #ddd; text-decoration: none; color: #eee; }\n\t.mainlinks a:hover { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }\n\t.mainlinks a:active { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }\n\t.mainlinks a:visited { border-bottom:1px dotted #ddd; text-decoration: none; color: white; }\n\t.mainlinks a:visited:hover { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }\n\n\t/* User interface styles */\n\n\t#header {\n\tmargin:0;\n\tpadding: 0.5em;\n\tbackground: #204D8C url(img/header-background.png);\n\ttext-align: left;\n\t}\n\n\t.logo {\n\tpadding: 0;\n\t/* For text only logo */\n\tfont-size: 1.4em;\n\tline-height: 1em;\n\tfont-weight: bold;\n\t}\n\n\t.logo img {\n\tvertical-align: middle;\n\tpadding-right: 1em;\n\t}\n\n\t.logo a {\n\tcolor: #fff;\n\ttext-decoration: none;\n\t}\n\n\tp {\n\tline-height:1.5em;\n\t}\n\n\th1 { \n\t\tmargin-bottom: 0;\n\t\tline-height: 1.9em; }\n\th2 { \n\t\tmargin-top: 0;\n\t\tline-height: 1.7em; }\n\n\t#content {\n\tclear:both;\n\tpadding-left: 30px;\n\tpadding-right: 30px;\n\tpadding-bottom: 30px;\n\tborder-bottom: 5px solid #eee;\n\t}\n\n    .mainlinks {\n        float: right;\n        margin-top: 0.5em;\n        text-align: right;\n    }\n\n    ul.mainlinks > li {\n    border-right: 1px dotted #ddd;\n    padding-right: 10px;\n    padding-left: 10px;\n    display: inline;\n    list-style: none;\n    }\n\n    ul.mainlinks > li.last,\n    ul.mainlinks > li.first {\n    border-right: none;\n    }\n\n  </style>\n\n</head>\n\n<body>\n\n<div id=\"header\">\n\n    <ul class=\"mainlinks\">\n        <li> <a href=\"http://www.centos.org/\">Home</a> </li>\n        <li> <a href=\"http://wiki.centos.org/\">Wiki</a> </li>\n        <li> <a href=\"http://wiki.centos.org/GettingHelp/ListInfo\">Mailing Lists</a></li>\n        <li> <a href=\"http://www.centos.org/download/mirrors/\">Mirror List</a></li>\n        <li> <a href=\"http://wiki.centos.org/irc\">IRC</a></li>\n        <li> <a href=\"https://www.centos.org/forums/\">Forums</a></li>\n        <li> <a href=\"http://bugs.centos.org/\">Bugs</a> </li>\n        <li class=\"last\"> <a href=\"http://wiki.centos.org/Donate\">Donate</a></li>\n    </ul>\n\n\t<div class=\"logo\">\n\t\t<a href=\"http://www.centos.org/\"><img src=\"img/centos-logo.png\" border=\"0\"></a>\n\t</div>\n\n</div>\n\n<div id=\"content\">\n\n\t<h1>Welcome to CentOS</h1>\n\n\t<h2>The Community ENTerprise Operating System</h2>\n\n\t<p><a href=\"http://www.centos.org/\">CentOS</a> is an Enterprise-class Linux Distribution derived from sources freely provided\nto the public by Red Hat, Inc. for Red Hat Enterprise Linux.  CentOS conforms fully with the upstream vendors\nredistribution policy and aims to be functionally compatible. (CentOS mainly changes packages to remove upstream vendor\nbranding and artwork.)</p>\n\n\t<p>CentOS is developed by a small but growing team of core\ndevelopers.&nbsp; In turn the core developers are supported by an active user community\nincluding system administrators, network administrators, enterprise users, managers, core Linux contributors and Linux enthusiasts from around the world.</p>\n\n\t<p>CentOS has numerous advantages including: an active and growing user community, quickly rebuilt, tested, and QA'ed errata packages, an extensive <a href=\"http://www.centos.org/download/mirrors/\">mirror network</a>, developers who are contactable and responsive, Special Interest Groups (<a href=\"http://wiki.centos.org/SpecialInterestGroup/\">SIGs</a>) to add functionality to the core CentOS distribution, and multiple community support avenues including a <a href=\"http://wiki.centos.org/\">wiki</a>, <a\nhref=\"http://wiki.centos.org/irc\">IRC Chat</a>, <a href=\"http://wiki.centos.org/GettingHelp/ListInfo\">Email Lists</a>, <a href=\"https://www.centos.org/forums/\">Forums</a>, <a href=\"http://bugs.centos.org/\">Bugs Database</a>, and an <a\nhref=\"http://wiki.centos.org/FAQ/\">FAQ</a>.</p>\n\n\t</div>\n\n</div>\n\n\n</body>\n</html>\n",
+                    "location": "/",
+                    "components": {},
+                    "html_hash": 501510358,
+                    "sitemap": null,
+                    "securitytxt_hash": null
+                },
+                "port": 443,
+                "transport": "tcp",
+                "version": "1.9.12",
+                "location": {
+                    "city": "\u015ei\u015fli",
+                    "region_code": "34",
+                    "area_code": null,
+                    "longitude": 28.9962,
+                    "latitude": 41.0514,
+                    "country_code": "TR",
+                    "country_name": "Turkey"
+                },
+                "product": "nginx",
+                "hash": 1811457652,
+                "tags": [
+                    "self-signed"
+                ],
+                "timestamp": "2023-02-17T10:28:52.856756",
+                "ssl": {
+                    "chain_sha256": [
+                        "14ce89f8a5c27641014fcc3f58fc7e667632d0d5d9eed24e2bc0dc6ae5ee19b3"
+                    ],
+                    "jarm": "04d02d00004d04d04c04d02d04d04d9674c6b4e623ae36cc2d998e99e2262e",
+                    "chain": [
+                        "-----BEGIN CERTIFICATE-----\nMIIDCjCCAfICAm65MA0GCSqGSIb3DQEBCwUAMGYxCzAJBgNVBAYTAlVTMQswCQYD\nVQQIDAJLQTEWMBQGA1UEBwwNSGJpciBGcGhhb2lhaTEfMB0GA1UECgwWVXRjIFVk\nb3ZjaXJmYiBUeGkgSW5jLjERMA8GA1UEAwwIaXVnb3EudXMwHhcNMjMwMjE2MjI1\nMjAyWhcNMjQwMjE3MDUyOTM2WjAvMQswCQYDVQQGEwJVUzENMAsGA1UECwwEQXB0\nazERMA8GA1UEAwwIaXVnb3EudXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK\nAoIBAQDe/zyrYPLFswM6mKD4K19iNIvrWmpa1d1RuiWS+YTSJJNYiTjmE/Zb9kl9\nhb2M2eJfRLj77ZeHdGIjix/elC+pEkwO9NUykeJBm58RtemZq13dfEfsQF2BYiv6\nSOD9McfwiEf+4tsGxGna8xwH4eaIJLY9m8f9pqdhTCMGzCgFnIMJoehRhA1iVCqY\n7LgUw2/+Lj/7OzCPgdmE6A2ScivcRwdEeOFB+OKdjyvCGv3uefxVt5w5N7CXpcX5\nGR41rhIBODJ07PBImIb5zjLigRd7mFi5YBP6dE8LE4Vzldp2rq42wJlLUgobh2ki\nV8EkLzDTZVRHSBuxFk0fDIasrYw3AgMBAAEwDQYJKoZIhvcNAQELBQADggEBAF1v\n1SKELizwJ3wBj7jxY4pyDet84eCEQh0dbwqul6bCUqUoY2+/fJtR1tWS10mW46KE\nxrvAvCZg0gZC/H1M4MGqcXN3Z4Za3yDHcnuaG46IR7NXoQOWepf/uJU3KyZlBT8O\nVweakdH7dq0iwy1Er8mQRI/CfcIxdDn0oNHPGrwbj6ZTdeJVNeCTgd9Ioi41hi9C\nWBHd5figw/LYUlHxoM1Z6TC8rqE2z3jOAhEW9VkjYeJ9raI5D6s/IBU7JcXfvkQ1\nWFmc8Do5lpQYS4TgNT1BINbKo0MJqrb33wDnI/E+E7GMwnItWowQl6Jh2qcXIOE+\nYfEp/eSkgTfq9cVG/lw=\n-----END CERTIFICATE-----\n"
+                    ],
+                    "dhparams": null,
+                    "versions": [
+                        "TLSv1",
+                        "-SSLv2",
+                        "SSLv3",
+                        "TLSv1.1",
+                        "TLSv1.2",
+                        "-TLSv1.3"
+                    ],
+                    "acceptable_cas": [],
+                    "tlsext": [
+                        {
+                            "id": 65281,
+                            "name": "renegotiation_info"
+                        },
+                        {
+                            "id": 35,
+                            "name": "session_ticket"
+                        }
+                    ],
+                    "ja3s": "7c02dbae662670040c7af9bd15fb7e2f",
+                    "cert": {
+                        "sig_alg": "sha256WithRSAEncryption",
+                        "issued": "20230216225202Z",
+                        "expires": "20240217052936Z",
+                        "expired": false,
+                        "version": 0,
+                        "extensions": [],
+                        "fingerprint": {
+                            "sha256": "14ce89f8a5c27641014fcc3f58fc7e667632d0d5d9eed24e2bc0dc6ae5ee19b3",
+                            "sha1": "605e844d5f637faa2cb764ed60421994881d01fa"
+                        },
+                        "serial": 28345,
+                        "subject": {
+                            "C": "US",
+                            "OU": "Aptk",
+                            "CN": "iugoq.us"
+                        },
+                        "pubkey": {
+                            "type": "rsa",
+                            "bits": 2048
+                        },
+                        "issuer": {
+                            "C": "US",
+                            "L": "Hbir Fphaoiai",
+                            "CN": "iugoq.us",
+                            "O": "Utc Udovcirfb Txi Inc.",
+                            "ST": "KA"
+                        }
+                    },
+                    "cipher": {
+                        "version": "TLSv1.2",
+                        "bits": 256,
+                        "name": "AES256-GCM-SHA384"
+                    },
+                    "trust": {
+                        "revoked": false,
+                        "browser": null
+                    },
+                    "handshake_states": [
+                        "before SSL initialization",
+                        "SSLv3/TLS write client hello",
+                        "SSLv3/TLS read server hello",
+                        "SSLv3/TLS read server certificate",
+                        "SSLv3/TLS read server done",
+                        "SSLv3/TLS write client key exchange",
+                        "SSLv3/TLS write change cipher spec",
+                        "SSLv3/TLS write finished",
+                        "SSLv3/TLS read server session ticket",
+                        "SSLv3/TLS read change cipher spec",
+                        "SSLv3/TLS read finished",
+                        "SSL negotiation finished successfully"
+                    ],
+                    "alpn": [],
+                    "ocsp": {}
+                },
+                "hostnames": [
+                    "85.104.122.231.dynamic.ttnet.com.tr"
+                ],
+                "org": "Turk Telekomunikasyon Anonim Sirketi",
+                "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.9.12\r\nContent-Length: 4833\r\n\r\n",
+                "asn": "AS9121",
+                "cpe23": [
+                    "cpe:2.3:a:igor_sysoev:nginx:1.9.12"
+                ],
+                "isp": "Turk Telekomunikasyon Anonim Sirketi",
+                "cpe": [
+                    "cpe:/a:igor_sysoev:nginx:1.9.12"
+                ],
+                "domains": [
+                    "ttnet.com.tr"
+                ],
+                "ip_str": "85.104.122.231",
+                "os": null,
+                "_shodan": {
+                    "region": "eu",
+                    "ptr": true,
+                    "module": "https",
+                    "id": "108c0001-ca79-44ae-80f1-67e64f29e47b",
+                    "options": {},
+                    "crawler": "621591a63b031d098ca76175401cfed505d8b4a7"
+                },
+                "opts": {
+                    "vulns": [],
+                    "heartbleed": "2023/02/17 10:29:21 85.104.122.231:443 - ERROR: heartbleed: timeout\n"
+                }
+            },
+            {
+                "product": "PPTP",
+                "hash": 941448006,
+                "os": null,
+                "tags": [
+                    "vpn"
+                ],
+                "pptp": {
+                    "firmware": 0,
+                    "vendor": "Microsoft",
+                    "hostname": ""
+                },
+                "timestamp": "2023-02-24T21:38:47.126405",
+                "isp": "TTNet A.S.",
+                "transport": "tcp",
+                "_shodan": {
+                    "region": "eu",
+                    "ptr": true,
+                    "module": "pptp",
+                    "id": "aa00f52c-ad38-45c8-a303-09853fea2f23",
+                    "options": {},
+                    "crawler": "487814a778c983e2dcef234806292d88c5cbf3ec"
+                },
+                "asn": "AS47331",
+                "hostnames": [
+                    "85.104.122.231.dynamic.ttnet.com.tr"
+                ],
+                "location": {
+                    "city": "\u015ei\u015fli",
+                    "region_code": "34",
+                    "area_code": null,
+                    "longitude": 28.9962,
+                    "latitude": 41.0514,
+                    "country_code": "TR",
+                    "country_name": "Turkey"
+                },
+                "ip": 1432910567,
+                "domains": [
+                    "ttnet.com.tr"
+                ],
+                "org": "Turk Telekomunikasyon Anonim Sirketi",
+                "data": "PPTP:\n  Firmware: 0\n  Hostname: \n  Vendor: Microsoft",
+                "port": 1723,
+                "opts": {
+                    "raw": "009c00011a2b3c4d0002000001000100000000020000000300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004d6963726f736f667400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                "ip_str": "85.104.122.231"
+            }
+        ],
+        "asn": "AS47331",
+        "city": "\u015ei\u015fli",
+        "latitude": 41.0514,
+        "isp": "TTNet A.S.",
+        "longitude": 28.9962,
+        "last_update": "2023-02-24T21:38:47.126405",
+        "country_name": "Turkey",
+        "ip_str": "85.104.122.231",
+        "os": null,
+        "ports": [
+            443,
+            1723
+        ]
+    }
+}
