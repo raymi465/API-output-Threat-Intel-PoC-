@@ -1,0 +1,142 @@
+{
+    "ip": "51.158.105.218",
+    "type": "IPv4",
+    "hostname": "218-105-158-51.instances.scw.cloud",
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": "scaleway.com",
+        "name": "Scaleway",
+        "type": "hosting"
+    },
+    "connection": {
+        "asn": 12876,
+        "domain": "proxad.net",
+        "organization": "ONLINE S.A.S.",
+        "route": "51.158.0.0/15",
+        "type": "hosting"
+    },
+    "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "name_native": "euro",
+        "plural": "euros",
+        "plural_native": "euros",
+        "symbol": "\u20ac",
+        "symbol_native": "\u20ac",
+        "format": {
+            "negative": {
+                "prefix": "-",
+                "suffix": "\u00a0\u20ac"
+            },
+            "positive": {
+                "prefix": "",
+                "suffix": "\u00a0\u20ac"
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "EU",
+            "name": "Europe"
+        },
+        "country": {
+            "area": 547030,
+            "borders": [
+                "AD",
+                "BE",
+                "CH",
+                "DE",
+                "ES",
+                "IT",
+                "LU",
+                "MC"
+            ],
+            "calling_code": "33",
+            "capital": "Paris",
+            "code": "FR",
+            "name": "France",
+            "population": 67749632,
+            "population_density": 123.85,
+            "flag": {
+                "emoji": "\ud83c\uddeb\ud83c\uddf7",
+                "emoji_unicode": "U+1F1EB U+1F1F7",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/fr.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/fr.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/fr.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/fr.svg"
+            },
+            "languages": [
+                {
+                    "code": "fr",
+                    "name": "French",
+                    "native": "fran\u00e7ais"
+                },
+                {
+                    "code": "br",
+                    "name": "Breton",
+                    "native": "brezhoneg"
+                },
+                {
+                    "code": "co",
+                    "name": "Corsican",
+                    "native": "Corsican"
+                },
+                {
+                    "code": "ca",
+                    "name": "Catalan",
+                    "native": "catal\u00e0"
+                },
+                {
+                    "code": "eu",
+                    "name": "Basque",
+                    "native": "euskara"
+                },
+                {
+                    "code": "oc",
+                    "name": "Occitan",
+                    "native": "Occitan"
+                }
+            ],
+            "tld": ".fr"
+        },
+        "region": {
+            "code": "FR-IDF",
+            "name": "\u00cele-de-France"
+        },
+        "city": "Paris",
+        "postal": "75015",
+        "latitude": 48.85839,
+        "longitude": 2.29457,
+        "language": {
+            "code": "fr",
+            "name": "French",
+            "native": "fran\u00e7ais"
+        },
+        "in_eu": true
+    },
+    "security": {
+        "is_abuser": false,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": true,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_vpn": false,
+        "is_anonymous": false,
+        "is_threat": false
+    },
+    "time_zone": {
+        "id": "Europe/Paris",
+        "abbreviation": "CET",
+        "current_time": "2023-03-08T15:30:07+01:00",
+        "name": "Central European Standard Time",
+        "offset": 3600,
+        "in_daylight_saving": false
+    }
+}
