@@ -1,0 +1,57 @@
+{
+   "ip":"75.126.185.100",
+   "hostname":"64.b9.7e4b.ip4.static.sl-reverse.com",
+   "city":"Grapevine",
+   "region":"Texas",
+   "country":"US",
+   "loc":"32.9343,-97.0781",
+   "org":"AS36351 SoftLayer Technologies Inc.",
+   "postal":"76051",
+   "timezone":"America/Chicago",
+   "asn":{
+      "asn":"AS36351",
+      "name":"SoftLayer Technologies Inc.",
+      "domain":"softlayer.com",
+      "route":"75.126.176.0/20",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"SoftLayer",
+      "domain":"ibm.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":""
+   },
+   "abuse":{
+      "address":"US, TX, Dallas, 4849 Alpha Rd., 75244",
+      "country":"US",
+      "email":"abuse@softlayer.com",
+      "name":"Abuse",
+      "network":"75.126.185.96/28",
+      "phone":"+1-214-442-0605"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
