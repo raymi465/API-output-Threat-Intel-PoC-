@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "TH",
+        "domain": "issp.co.th",
+        "hostnames": [],
+        "ipAddress": "202.142.215.16",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": null,
+        "isp": "Internet Solution & Service Provider Co. Ltd.",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
