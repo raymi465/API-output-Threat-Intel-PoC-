@@ -1,0 +1,56 @@
+{
+   "ip":"134.209.193.214",
+   "city":"Amsterdam",
+   "region":"North Holland",
+   "country":"NL",
+   "loc":"52.3082,4.9807",
+   "org":"AS14061 DigitalOcean, LLC",
+   "postal":"1108",
+   "timezone":"Europe/Amsterdam",
+   "asn":{
+      "asn":"AS14061",
+      "name":"DigitalOcean, LLC",
+      "domain":"digitalocean.com",
+      "route":"134.209.192.0/20",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"DigitalOcean, LLC",
+      "domain":"digitalocean.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":""
+   },
+   "abuse":{
+      "address":"US, NY, New York, 101, Ave of the Americas, 10013",
+      "country":"US",
+      "email":"abuse@digitalocean.com",
+      "name":"DigitalOcean Abuse",
+      "network":"134.209.0.0/16",
+      "phone":"+1-347-875-6044"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
