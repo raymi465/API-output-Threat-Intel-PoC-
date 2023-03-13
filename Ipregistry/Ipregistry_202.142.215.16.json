@@ -1,0 +1,118 @@
+{
+    "ip": "202.142.215.16",
+    "type": "IPv4",
+    "hostname": null,
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": "isp-thailand.com",
+        "name": "Internet Solution & Service Provider Co., Ltd.",
+        "type": "isp"
+    },
+    "connection": {
+        "asn": 7654,
+        "domain": "isp-thailand.com",
+        "organization": "Internet Solution & Service Provider Co., Ltd.",
+        "route": "202.142.215.0/24",
+        "type": "isp"
+    },
+    "currency": {
+        "code": "THB",
+        "name": "Thai Baht",
+        "name_native": "\u0e1a\u0e32\u0e17",
+        "plural": "Thai baht",
+        "plural_native": "\u0e1a\u0e32\u0e17\u0e44\u0e17\u0e22",
+        "symbol": "THB",
+        "symbol_native": "\u0e3f",
+        "format": {
+            "negative": {
+                "prefix": "-\u0e3f",
+                "suffix": ""
+            },
+            "positive": {
+                "prefix": "\u0e3f",
+                "suffix": ""
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "AS",
+            "name": "Asia"
+        },
+        "country": {
+            "area": 514000,
+            "borders": [
+                "KH",
+                "LA",
+                "MM",
+                "MY"
+            ],
+            "calling_code": "66",
+            "capital": "Bangkok",
+            "code": "TH",
+            "name": "Thailand",
+            "population": 71601103,
+            "population_density": 139.3,
+            "flag": {
+                "emoji": "\ud83c\uddf9\ud83c\udded",
+                "emoji_unicode": "U+1F1F9 U+1F1ED",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/th.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/th.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/th.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/th.svg"
+            },
+            "languages": [
+                {
+                    "code": "th",
+                    "name": "Thai",
+                    "native": "\u0e44\u0e17\u0e22"
+                },
+                {
+                    "code": "en",
+                    "name": "English",
+                    "native": "English"
+                }
+            ],
+            "tld": ".th"
+        },
+        "region": {
+            "code": null,
+            "name": null
+        },
+        "city": null,
+        "postal": null,
+        "latitude": 13.74416,
+        "longitude": 100.46078,
+        "language": {
+            "code": "th",
+            "name": "Thai",
+            "native": "\u0e44\u0e17\u0e22"
+        },
+        "in_eu": false
+    },
+    "security": {
+        "is_abuser": false,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": false,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_vpn": false,
+        "is_anonymous": false,
+        "is_threat": false
+    },
+    "time_zone": {
+        "id": "Asia/Bangkok",
+        "abbreviation": "ICT",
+        "current_time": "2023-03-13T18:10:10+07:00",
+        "name": "Indochina Time",
+        "offset": 25200,
+        "in_daylight_saving": false
+    }
+}
