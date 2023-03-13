@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "NL",
+        "domain": "worldstream.nl",
+        "hostnames": [
+            "217-23-3-76.hosted-by-worldstream.net"
+        ],
+        "ipAddress": "217.23.3.76",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "WorldStream B.V.",
+        "lastReportedAt": "2022-01-21T04:28:42+00:00",
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
