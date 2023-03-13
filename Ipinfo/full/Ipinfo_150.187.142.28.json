@@ -1,0 +1,55 @@
+{
+   "ip":"150.187.142.28",
+   "city":"Caracas",
+   "region":"Distrito Federal",
+   "country":"VE",
+   "loc":"10.4880,-66.8792",
+   "org":"AS20312 Fundación Centro Nacional de Innovación Tecnológica (CENIT)",
+   "timezone":"America/Caracas",
+   "asn":{
+      "asn":"AS20312",
+      "name":"Fundación Centro Nacional de Innovación Tecnológica (CENIT)",
+      "domain":"cnti.gob.ve",
+      "route":"150.187.0.0/16",
+      "type":"business"
+   },
+   "company":{
+      "name":"Fundación Centro Nacional de Innovación Tecnológica (CENIT)",
+      "domain":"cnti.gob.ve",
+      "type":"business"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":false,
+      "service":""
+   },
+   "abuse":{
+      "address":"Avenida Andrés Bello, sector Guaicaipuro, torre Fondo Común, piso16. Caracas, 2, http://www.cnti.gob.ve/, 1010 - Caracas - Distrito Capital",
+      "country":"VE",
+      "email":"jramirez@CNTI.GOB.VE",
+      "name":"Jhonatan Ramirez Martinez",
+      "network":"150.186.0.0/15",
+      "phone":"+58  4126037557 [0000]"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
