@@ -1,0 +1,57 @@
+{
+   "ip":"85.104.122.231",
+   "hostname":"85.104.122.231.dynamic.ttnet.com.tr",
+   "city":"Istanbul",
+   "region":"Istanbul",
+   "country":"TR",
+   "loc":"41.0138,28.9497",
+   "org":"AS47331 TTNet A.S.",
+   "postal":"34096",
+   "timezone":"Europe/Istanbul",
+   "asn":{
+      "asn":"AS47331",
+      "name":"TTNet A.S.",
+      "domain":"ttnet.com.tr",
+      "route":"85.104.122.0/24",
+      "type":"isp"
+   },
+   "company":{
+      "name":"Turk Telekomunikasyon Anonim Sirketi",
+      "domain":"turktelekom.com.tr",
+      "type":"isp"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":false,
+      "service":""
+   },
+   "abuse":{
+      "address":"Turk Telekomunikasyon A.S Turgut Ozal Blv. Aydinlikevler, 06103 ANKARA TURKEY",
+      "country":"TR",
+      "email":"abuse@turktelekom.com.tr",
+      "name":"Abuse Role",
+      "network":"85.104.0.0/16",
+      "phone":"+90 312 555 0000"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
