@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "FR",
+        "domain": "scaleway.com",
+        "hostnames": [
+            "218-105-158-51.instances.scw.cloud"
+        ],
+        "ipAddress": "51.158.105.218",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "Scaleway",
+        "lastReportedAt": "2021-04-07T16:52:28+00:00",
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
