@@ -1,0 +1,17 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "NL",
+        "domain": "digitalocean.com",
+        "hostnames": [],
+        "ipAddress": "134.209.193.214",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "DigitalOcean LLC",
+        "lastReportedAt": "2021-03-23T23:03:10+00:00",
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
