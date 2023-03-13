@@ -1,0 +1,72 @@
+{
+    "ip": "85.104.122.231",
+    "is_eu": false,
+    "city": "Istanbul",
+    "region": "Istanbul",
+    "region_code": "34",
+    "region_type": "province",
+    "country_name": "Turkey",
+    "country_code": "TR",
+    "continent_name": "Asia",
+    "continent_code": "AS",
+    "latitude": 41.01449966430664,
+    "longitude": 28.95330047607422,
+    "postal": "34096",
+    "calling_code": "90",
+    "flag": "https://ipdata.co/flags/tr.png",
+    "emoji_flag": "\ud83c\uddf9\ud83c\uddf7",
+    "emoji_unicode": "U+1F1F9 U+1F1F7",
+    "asn": {
+        "asn": "AS9121",
+        "name": "Turk Telekomunikasyon Anonim Sirketi",
+        "domain": null,
+        "route": "85.104.0.0/17",
+        "type": "business"
+    },
+    "carrier": {
+        "name": "T\u00fcrk Telekom",
+        "mcc": "286",
+        "mnc": "3"
+    },
+    "languages": [
+        {
+            "name": "Turkish",
+            "native": "T\u00fcrk\u00e7e",
+            "code": "tr"
+        }
+    ],
+    "currency": {
+        "name": "Turkish Lira",
+        "code": "TRY",
+        "symbol": "TL",
+        "native": "TL",
+        "plural": "Turkish Lira"
+    },
+    "time_zone": {
+        "name": "Europe/Istanbul",
+        "abbr": "+03",
+        "offset": "+0300",
+        "is_dst": false,
+        "current_time": "2023-03-08T14:39:44+03:00"
+    },
+    "threat": {
+        "is_tor": false,
+        "is_icloud_relay": false,
+        "is_proxy": false,
+        "is_datacenter": false,
+        "is_anonymous": false,
+        "is_known_attacker": true,
+        "is_known_abuser": true,
+        "is_threat": true,
+        "is_bogon": false,
+        "blocklists": [
+            {
+                "name": "Abuse.ch",
+                "site": "https://abuse.ch",
+                "type": "botnet_c2"
+            }
+        ]
+    },
+    "count": "26",
+    "status": 200
+}
