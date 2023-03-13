@@ -1,0 +1,57 @@
+{
+   "ip":"217.23.3.76",
+   "hostname":"217-23-3-76.hosted-by-worldstream.net",
+   "city":"Naaldwijk",
+   "region":"South Holland",
+   "country":"NL",
+   "loc":"51.9942,4.2097",
+   "org":"AS49981 WorldStream B.V.",
+   "postal":"2671",
+   "timezone":"Europe/Amsterdam",
+   "asn":{
+      "asn":"AS49981",
+      "name":"WorldStream B.V.",
+      "domain":"worldstream.com",
+      "route":"217.23.0.0/20",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"WorldStream B.V.",
+      "domain":"worldstream.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":true,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":"ProtonVPN"
+   },
+   "abuse":{
+      "address":"WorldStream B.V., Industriestraat 24, 2671CT Naaldwijk, The Netherlands",
+      "country":"NL",
+      "email":"abuse@worldstream.nl",
+      "name":"Abuse-C Role",
+      "network":"217.23.3.0/24",
+      "phone":"+31174712117"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
