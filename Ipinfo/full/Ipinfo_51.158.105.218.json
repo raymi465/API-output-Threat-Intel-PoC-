@@ -1,0 +1,57 @@
+{
+   "ip":"51.158.105.218",
+   "hostname":"218-105-158-51.instances.scw.cloud",
+   "city":"Paris",
+   "region":"Île-de-France",
+   "country":"FR",
+   "loc":"48.8534,2.3488",
+   "org":"AS12876 ONLINE S.A.S.",
+   "postal":"75000",
+   "timezone":"Europe/Paris",
+   "asn":{
+      "asn":"AS12876",
+      "name":"ONLINE S.A.S.",
+      "domain":"scaleway.com",
+      "route":"51.158.0.0/15",
+      "type":"hosting"
+   },
+   "company":{
+      "name":"Scaleway",
+      "domain":"scaleway.com",
+      "type":"hosting"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":true,
+      "service":""
+   },
+   "abuse":{
+      "address":"8 rue de la ville l'Ã©vÃªque 75008 PARIS",
+      "country":"FR",
+      "email":"abuse@online.net",
+      "name":"Scaleway Abuse",
+      "network":"51.158.0.0/16",
+      "phone":"+33173502000"
+   },
+   "domains":{
+      "total":0,
+      "domains":[
+         
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
