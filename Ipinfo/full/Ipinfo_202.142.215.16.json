@@ -1,0 +1,59 @@
+{
+   "ip":"202.142.215.16",
+   "hostname":"202.142.215.16.colo.isp-thailand.com",
+   "city":"Samphanthawong",
+   "region":"Bangkok",
+   "country":"TH",
+   "loc":"13.7315,100.5141",
+   "org":"AS7654 Internet Solution & Service Provider Co., Ltd.",
+   "postal":"10100",
+   "timezone":"Asia/Bangkok",
+   "asn":{
+      "asn":"AS7654",
+      "name":"Internet Solution & Service Provider Co., Ltd.",
+      "domain":"issp.co.th",
+      "route":"202.142.215.0/24",
+      "type":"isp"
+   },
+   "company":{
+      "name":"Internet Solution & Service Provider Co., Ltd.",
+      "domain":"issp.co.th",
+      "type":"isp"
+   },
+   "privacy":{
+      "vpn":false,
+      "proxy":false,
+      "tor":false,
+      "relay":false,
+      "hosting":false,
+      "service":""
+   },
+   "abuse":{
+      "address":"Internet Solution & Service Provider Co., Ltd., 252/85-86 Muang Thai Phatra Office, Tower II, BB Floor,Ratchadaphisek Road, Huaykwang,, Huaykwang, Bangkok 10320,Thailand",
+      "country":"TH",
+      "email":"abuse@isp-thailand.com",
+      "name":"Eak Chanchakawan",
+      "network":"202.142.192.0/19",
+      "phone":"+66-2-2662842-5"
+   },
+   "domains":{
+      "ip":"202.142.215.16",
+      "total":2,
+      "domains":[
+         "tachibana.co.th",
+         "qmpass.com"
+      ]
+   },
+   "isLimited":false,
+   "tokenDetails":{
+      "core":{
+         "daily":2147483647,
+         "monthly":50000
+      },
+      "hostio":{
+         "daily":2147483647,
+         "monthly":1000,
+         "result_limit":5
+      }
+   }
+}
