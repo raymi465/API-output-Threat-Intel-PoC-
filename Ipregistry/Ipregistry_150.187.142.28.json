@@ -1,0 +1,112 @@
+{
+    "ip": "150.187.142.28",
+    "type": "IPv4",
+    "hostname": null,
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": null,
+        "name": "Fundaci\u00f3n Centro Nacional De Innovaci\u00f3n Tecnol\u00f3gica (cenit)",
+        "type": "government"
+    },
+    "connection": {
+        "asn": 20312,
+        "domain": "cnti.gob.ve",
+        "organization": "Fundaci\u00f3n Centro Nacional De Innovaci\u00f3n Tecnol\u00f3gica (cenit)",
+        "route": "150.187.0.0/16",
+        "type": "business"
+    },
+    "currency": {
+        "code": "VES",
+        "name": "Venezuelan Bol\u00edvar",
+        "name_native": "bol\u00edvar soberano",
+        "plural": "Venezuelan bol\u00edvars",
+        "plural_native": "bol\u00edvares soberanos",
+        "symbol": "VES",
+        "symbol_native": "Bs.S",
+        "format": {
+            "negative": {
+                "prefix": "Bs.S-",
+                "suffix": ""
+            },
+            "positive": {
+                "prefix": "Bs.S",
+                "suffix": ""
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "SA",
+            "name": "South America"
+        },
+        "country": {
+            "area": 912050,
+            "borders": [
+                "BR",
+                "CO",
+                "GY"
+            ],
+            "calling_code": "58",
+            "capital": "Caracas",
+            "code": "VE",
+            "name": "Venezuela",
+            "population": 28199867,
+            "population_density": 30.92,
+            "flag": {
+                "emoji": "\ud83c\uddfb\ud83c\uddea",
+                "emoji_unicode": "U+1F1FB U+1F1EA",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ve.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/ve.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ve.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ve.svg"
+            },
+            "languages": [
+                {
+                    "code": "es",
+                    "name": "Spanish",
+                    "native": "espa\u00f1ol"
+                }
+            ],
+            "tld": ".ve"
+        },
+        "region": {
+            "code": null,
+            "name": null
+        },
+        "city": null,
+        "postal": null,
+        "latitude": 7.99996,
+        "longitude": -66.00006,
+        "language": {
+            "code": "es",
+            "name": "Spanish",
+            "native": "espa\u00f1ol"
+        },
+        "in_eu": false
+    },
+    "security": {
+        "is_abuser": false,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": false,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_vpn": false,
+        "is_anonymous": false,
+        "is_threat": false
+    },
+    "time_zone": {
+        "id": "America/Caracas",
+        "abbreviation": "VET",
+        "current_time": "2023-03-13T08:54:46-04:00",
+        "name": "Venezuela Time",
+        "offset": -14400,
+        "in_daylight_saving": false
+    }
+}
