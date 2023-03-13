@@ -1,0 +1,153 @@
+{
+    "ip": "93.157.63.185",
+    "type": "IPv4",
+    "hostname": null,
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "company": {
+        "domain": "pht660n.com.br",
+        "name": "Private Internet Hosting Ltd",
+        "type": "business"
+    },
+    "connection": {
+        "asn": 43350,
+        "domain": "nforce.com",
+        "organization": "Nforce Entertainment B.V.",
+        "route": "93.157.62.0/23",
+        "type": "hosting"
+    },
+    "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "name_native": "\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0443\u0431\u043b\u044c",
+        "plural": "Russian rubles",
+        "plural_native": "\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0431\u043b\u044f",
+        "symbol": "RUB",
+        "symbol_native": "\u20bd",
+        "format": {
+            "negative": {
+                "prefix": "-",
+                "suffix": "\u00a0\u20bd"
+            },
+            "positive": {
+                "prefix": "",
+                "suffix": "\u00a0\u20bd"
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "EU",
+            "name": "Europe"
+        },
+        "country": {
+            "area": 17100000,
+            "borders": [
+                "AZ",
+                "BY",
+                "CN",
+                "EE",
+                "FI",
+                "GE",
+                "KP",
+                "KZ",
+                "LT",
+                "LV",
+                "MN",
+                "NO",
+                "PL",
+                "UA"
+            ],
+            "calling_code": "7",
+            "capital": "Moscow",
+            "code": "RU",
+            "name": "Russian Federation",
+            "population": 143449286,
+            "population_density": 8.39,
+            "flag": {
+                "emoji": "\ud83c\uddf7\ud83c\uddfa",
+                "emoji_unicode": "U+1F1F7 U+1F1FA",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ru.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/ru.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ru.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ru.svg"
+            },
+            "languages": [
+                {
+                    "code": "ru",
+                    "name": "Russian",
+                    "native": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
+                },
+                {
+                    "code": "tt",
+                    "name": "Tatar",
+                    "native": "\u0442\u0430\u0442\u0430\u0440"
+                },
+                {
+                    "code": "kv",
+                    "name": "Komi",
+                    "native": "Komi"
+                },
+                {
+                    "code": "ce",
+                    "name": "Chechen",
+                    "native": "\u043d\u043e\u0445\u0447\u0438\u0439\u043d"
+                },
+                {
+                    "code": "cv",
+                    "name": "Chuvash",
+                    "native": "\u0447\u04d1\u0432\u0430\u0448"
+                },
+                {
+                    "code": "ba",
+                    "name": "Bashkir",
+                    "native": "Bashkir"
+                },
+                {
+                    "code": "av",
+                    "name": "Avaric",
+                    "native": "Avaric"
+                }
+            ],
+            "tld": ".ru"
+        },
+        "region": {
+            "code": "RU-MOW",
+            "name": "Moskva"
+        },
+        "city": "Moscow",
+        "postal": "144700",
+        "latitude": 55.75218,
+        "longitude": 37.61555,
+        "language": {
+            "code": "ru",
+            "name": "Russian",
+            "native": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439"
+        },
+        "in_eu": false
+    },
+    "security": {
+        "is_abuser": false,
+        "is_attacker": false,
+        "is_bogon": false,
+        "is_cloud_provider": true,
+        "is_proxy": false,
+        "is_relay": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_vpn": true,
+        "is_anonymous": true,
+        "is_threat": false
+    },
+    "time_zone": {
+        "id": "Europe/Moscow",
+        "abbreviation": "MSK",
+        "current_time": "2023-03-13T12:44:02+03:00",
+        "name": "Moscow Standard Time",
+        "offset": 10800,
+        "in_daylight_saving": false
+    }
+}
