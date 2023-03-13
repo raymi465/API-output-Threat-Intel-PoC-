@@ -1,0 +1,19 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "softlayer.com",
+        "hostnames": [
+            "64.b9.7e4b.ip4.static.sl-reverse.com"
+        ],
+        "ipAddress": "75.126.185.100",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": null,
+        "isp": "SoftLayer Technologies Inc.",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
