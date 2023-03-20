@@ -1,8 +1,8 @@
-no hit on level 8 for ip 93.157.63.185
-no hit on level 7 for ip 93.157.63.185
-no hit on level 6 for ip 93.157.63.185
-no hit on level 5 for ip 93.157.63.185
-no hit on level 4 for ip 93.157.63.185
-no hit on level 3 for ip 93.157.63.185
-no hit on level 2 for ip 93.157.63.185
-no hit on level 1 for ip 93.157.63.185
+{93.157.63.185: level 8: False}
+{93.157.63.185: level 7: False}
+{93.157.63.185: level 6: False}
+{93.157.63.185: level 5: False}
+{93.157.63.185: level 4: False}
+{93.157.63.185: level 3: False}
+{93.157.63.185: level 2: False}
+{93.157.63.185: level 1: False}
