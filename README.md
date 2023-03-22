@@ -231,7 +231,7 @@ Binnen dit kopje geef ik aan wat de verschillende betaal manieren zijn binnen de
     - achter liggende bedrijven
     - gehosten domeinen 
     - prioriteit support.
-  - custom: 
+  - custom, contact opnemen met sales: 
     - flexibele hoeveelheid verzoeken per maand
     - IP whois data
     - IP ranges
@@ -253,7 +253,7 @@ Binnen dit kopje geef ik aan wat de verschillende betaal manieren zijn binnen de
 
 ### Ip_enrich
 - Wel moeten de volgende API’s aangeschaft worden:
-  - vrustotal premium API key
+  - virustotal premium API key
     - ergens tussen de $XX.000 en de $XXX.000
   - PassiveTotal
     - een gratis versie
